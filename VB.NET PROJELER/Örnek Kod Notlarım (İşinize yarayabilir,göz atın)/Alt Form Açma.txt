@@ -1,0 +1,25 @@
+C# kodu
+Yeni Form Aç Butonu
+    int formsayim = 1;  // formsayim deðiþkenini global olarak tanýmlayýn !
+
+            int formno = formsayim++;
+
+            AltForm cocuk = new AltForm();
+
+            cocuk.Name = "cocukform" + formno.ToString();
+            cocuk.Text = "Yeni Alt Form " + formno.ToString();
+
+            cocuk.MdiParent = this;
+
+            cocuk.Show();
+Kapat butonu
+  if (this.ActiveMdiChild != null)
+            {
+                Form frm = ActiveMdiChild;
+                frm.Close();
+Hepsini Kapat butonu
+    foreach (Form frm in this.MdiChildren)
+            {
+                frm.Close();
+            }
+ 

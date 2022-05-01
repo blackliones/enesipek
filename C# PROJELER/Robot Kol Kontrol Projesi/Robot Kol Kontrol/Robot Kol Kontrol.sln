@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot Kol Kontrol", "Robot Kol Kontrol\Robot Kol Kontrol.csproj", "{794EAAA5-BD9C-4E3A-9735-2583B13F7F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794EAAA5-BD9C-4E3A-9735-2583B13F7F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794EAAA5-BD9C-4E3A-9735-2583B13F7F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794EAAA5-BD9C-4E3A-9735-2583B13F7F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794EAAA5-BD9C-4E3A-9735-2583B13F7F36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5717B4A7-E235-448B-A257-AD645262055F}
+	EndGlobalSection
+EndGlobal

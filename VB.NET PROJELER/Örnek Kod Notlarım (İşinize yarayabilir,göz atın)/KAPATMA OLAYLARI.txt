@@ -1,0 +1,11 @@
+Bu komutla beraber kullanýlcak parametreler 
+-i Arayuz gösterme 
+-l Log off 
+-s Kapatma (Shutdown) 
+-r Kapatma ve tekrar açma ( Shutdown and restart) 
+-a Kapatma iþlemi iptal 
+-m \\aðdaki bilgisayar adý Aðýnýzdajki baþka bir bilgisayarý kapatma 
+-t XX Sayaç Süresi (XX, saniye olmalý) 
+-c Kapatma eki ( Kapatmak için verdiðiniz not, açýklama) 
+-f Zorla kapatma ( Beklenmekte olan programlarý sorgusuz kapatýr) 
+-d uyku modu

@@ -1,0 +1,14 @@
+C:\Users\Bilal\Desktop\ENES PROG\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\bin\Debug\METİN2 TORRENTSİZ GİRİŞ.exe.config
+C:\Users\Bilal\Desktop\ENES PROG\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\bin\Debug\METİN2 TORRENTSİZ GİRİŞ.exe
+C:\Users\Bilal\Desktop\ENES PROG\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\bin\Debug\METİN2 TORRENTSİZ GİRİŞ.pdb
+C:\Users\Bilal\Desktop\ENES PROG\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\bin\Debug\METİN2 TORRENTSİZ GİRİŞ.xml
+C:\Users\Bilal\Desktop\ENES PROG\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\obj\Debug\METİN2_TORRENTSİZ_GİRİŞ.Form1.resources
+C:\Users\Bilal\Desktop\ENES PROG\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\obj\Debug\METİN2_TORRENTSİZ_GİRİŞ.Resources.resources
+C:\Users\Bilal\Desktop\ENES PROG\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\obj\Debug\METİN2 TORRENTSİZ GİRİŞ.vbproj.GenerateResource.Cache
+C:\Users\Bilal\Desktop\ENES PROG\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\obj\Debug\METİN2 TORRENTSİZ GİRİŞ.exe
+C:\Users\Bilal\Desktop\ENES PROG\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\obj\Debug\METİN2 TORRENTSİZ GİRİŞ.xml
+C:\Users\Bilal\Desktop\ENES PROG\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\obj\Debug\METİN2 TORRENTSİZ GİRİŞ.pdb
+C:\Users\Bilal\Desktop\Codes\Visual Basic & Projeler\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\bin\Debug\METİN2 TORRENTSİZ GİRİŞ.exe.config
+C:\Users\Bilal\Desktop\Codes\Visual Basic & Projeler\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\obj\Debug\METİN2 TORRENTSİZ GİRİŞ.exe
+C:\Users\Bilal\Desktop\Codes\Visual Basic & Projeler\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\obj\Debug\METİN2 TORRENTSİZ GİRİŞ.xml
+C:\Users\Bilal\Desktop\Codes\Visual Basic & Projeler\METİN2 TORRENTSİZ GİRİŞ\METİN2 TORRENTSİZ GİRİŞ\obj\Debug\METİN2 TORRENTSİZ GİRİŞ.pdb

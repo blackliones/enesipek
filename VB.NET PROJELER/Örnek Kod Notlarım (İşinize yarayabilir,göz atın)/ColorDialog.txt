@@ -1,0 +1,3 @@
+Button 
+  ColorDialog1.ShowDialog()
+        RichTextBox1.ForeColor = ColorDialog1.Color

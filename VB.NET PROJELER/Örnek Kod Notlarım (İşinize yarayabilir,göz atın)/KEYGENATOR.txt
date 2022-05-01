@@ -1,0 +1,20 @@
+1 buton 1 textbox ekle
+buton click olayýna
+TextBox1.Text = Int(Rnd() * 7)
+Select Case TextBox1.Text
+Case 0
+TextBox1.Text = " "
+Case 1
+TextBox1.Text = " "
+Case 2
+TextBox1.Text = " "
+Case 3
+TextBox1.Text = " "
+Case 4
+TextBox1.Text = " "
+Case 5
+TextBox1.Text = " "
+Case 6
+TextBox1.Text = " "
+End Select
+End Sub

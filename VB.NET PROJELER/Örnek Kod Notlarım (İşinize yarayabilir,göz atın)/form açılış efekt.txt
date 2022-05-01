@@ -1,0 +1,17 @@
+1adet timer ekle
+Kod:
+Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+Timer1.Start()
+Timer1.interval=100
+End Sub
+
+Private Sub Timer1_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Timer1.Tick
+Dim x, y, k As Integer
+x = 300
+y = 0
+For k = 0 To 300
+y += 1.1
+Me.Size = New System.Drawing.Size(x, y)
+Next
+Timer1.Stop()
+End Sub

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d90354a01da2e6d448b677f9340f0321
+timeCreated: 1473455691
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - charactermat: {instanceID: 0}
+  - charactertexture: {instanceID: 0}
+  - ss: {fileID: 11458966, guid: be2eb347bb4d31848b5893541fdc7085, type: 2}
+  - kup: {instanceID: 0}
+  - rbkup: {instanceID: 0}
+  - kure: {instanceID: 0}
+  - rbkure: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

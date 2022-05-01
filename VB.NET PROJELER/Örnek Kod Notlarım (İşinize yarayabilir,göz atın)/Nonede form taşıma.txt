@@ -1,0 +1,54 @@
+FORM ÝÇÝN
+_________
+Public Class Form1
+    Private mouse_offset As Point
+    Private Sub Form1_MouseDown(ByVal sender As Object,ByVal e As System.Windows.Forms.MouseEventArgs) Handles MyBase.MouseDown
+
+        mouse_offset = New Point(-e.X, -e.Y)
+
+    End Sub
+
+
+    Private Sub Form1_MouseMove(ByVal sender As Object, _
+    ByVal e As System.Windows.Forms.MouseEventArgs) _
+    Handles MyBase.MouseMove
+        If e.Button = MouseButtons.Left Then
+            Dim mousePos As Point = Control.MousePosition
+            mousePos.Offset(mouse_offset.X, mouse_offset.Y)
+            Location = mousePos
+        End If
+    End Sub
+End Class
+
+NESNE ÝÇÝN
+____________
+
+
+Public Class Form1
+    Const i As Integer = &HA1
+    Const j As Integer = 2
+
+ Private Sub Label1_MouseDown(ByVal sender As System.Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles Label1.MouseDown
+        Label1.Capture = False
+        Dim msg As Message = Message.Create(Me.Handle, i, New IntPtr(j), IntPtr.Zero)
+        Me.DefWndProc(msg)
+    End Sub
+ Private Sub ptitle_MouseDown(ByVal sender As System.Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles ptitle.MouseDown
+        'Picture veya panel olabilir
+        ptitle.Capture = False
+        Dim msg As Message = Message.Create(Me.Handle, i, New IntPtr(j), IntPtr.Zero)
+        Me.DefWndProc(msg)
+    End Sub
+    
+    Private Sub ListBox1_MouseDown(ByVal sender As System.Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles ListBox1.MouseDown
+        ListBox1.Capture = False
+        Dim msg As Message = Message.Create(Me.Handle, i, New IntPtr(j), IntPtr.Zero)
+        Me.DefWndProc(msg)
+    End Sub
+
+    Private Sub Button1_MouseDown(ByVal sender As System.Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles Button1.MouseDown
+        Button1.Capture = False
+        Dim msg As Message = Message.Create(Me.Handle, i, New IntPtr(j), IntPtr.Zero)
+        Me.DefWndProc(msg)
+    End Sub
+End Class

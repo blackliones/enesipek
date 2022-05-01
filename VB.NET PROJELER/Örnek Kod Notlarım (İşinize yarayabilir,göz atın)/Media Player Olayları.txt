@@ -1,0 +1,8 @@
+Butonla duraklatma 
+AxWindowsMediaPlayer1.Ctlcontrols.pause
+
+Durdurma
+AxWindowsMediaPlayer1.Ctlcontrols.stop
+
+Devam 
+AxWindowsMediaPlayer1.Ctlcontrols.play

@@ -1,0 +1,11 @@
+G:\enes\Codes\Software\Visual Basic & Projeler\E_H NOTE PAD\obj\Release\E_H NOTE PAD.vbproj.GenerateResource.cache
+G:\enes\Codes\Software\Visual Basic & Projeler\E_H NOTE PAD\obj\Release\E_H NOTE PAD.vbproj.CoreCompileInputs.cache
+G:\enes\Codes\Software\Visual Basic & Projeler\E_H NOTE PAD\obj\Release\Jazzcorp_Not_Defteri.Form1.resources
+G:\enes\Codes\Software\Visual Basic & Projeler\E_H NOTE PAD\obj\Release\Jazzcorp_Not_Defteri.Resources.resources
+G:\enes\Codes\Software\Visual Basic & Projeler\E_H NOTE PAD\bin\Release\Jazzcorp Not Defteri.exe.config
+G:\enes\Codes\Software\Visual Basic & Projeler\E_H NOTE PAD\bin\Release\Jazzcorp Not Defteri.exe
+G:\enes\Codes\Software\Visual Basic & Projeler\E_H NOTE PAD\bin\Release\Jazzcorp Not Defteri.pdb
+G:\enes\Codes\Software\Visual Basic & Projeler\E_H NOTE PAD\bin\Release\Jazzcorp Not Defteri.xml
+G:\enes\Codes\Software\Visual Basic & Projeler\E_H NOTE PAD\obj\Release\Jazzcorp Not Defteri.exe
+G:\enes\Codes\Software\Visual Basic & Projeler\E_H NOTE PAD\obj\Release\Jazzcorp Not Defteri.xml
+G:\enes\Codes\Software\Visual Basic & Projeler\E_H NOTE PAD\obj\Release\Jazzcorp Not Defteri.pdb

@@ -1,0 +1,14 @@
+Visual Basic
+Dim boyut As New Size(100, 100)
+        Me.Size = boyut
+
+(C#) C Sharp
+this.Height = Convert.ToInt32(770);
+                this.Width = Convert.ToInt32(1366);
+
+Height (Yükseklik)
+Width(En)
+
+veya 
+
+  this.Size = new System.Drawing.Size(100, 100);

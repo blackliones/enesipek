@@ -1,0 +1,17 @@
+1 adet textbox ve 1 adet listbox ekle
+ textbox key press eventi içerisine 
+  
+ For i As Int32 = 0 To ListBox1.Items.Count - 1
+            If ListBox1.Items(i) = TextBox2.Text Then
+                ListBox1.SelectedIndex = i
+                Exit For
+            End If
+        Next
+
+textbox textchanged eventi içerisine
+ 
+Dim bulunanlar = From i In ListBox2.Items Where i.ToString().StartsWith(TextBox1.Text) Select i
+        If ListBox1.Items.Count >= 1 Then ListBox1.Items.Clear()
+        For Each bulunan As Object In bulunanlar
+            ListBox1.Items.Add(bulunan)
+        Next

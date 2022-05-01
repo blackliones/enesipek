@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Jazzcorp Not Defteri
+</name>
+</assembly>
+<members>
+<member name="T:Jazzcorp_Not_Defteri.My.Resources.Resources">
+<summary>
+  Yerelleştirilmiş dizeleri aramak gibi işlemler için, türü kesin olarak belirtilmiş kaynak sınıfı.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources.ResourceManager">
+<summary>
+  Bu sınıf tarafından kullanılan, önbelleğe alınmış ResourceManager örneğini döndürür.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources.Culture">
+<summary>
+  Tümü için geçerli iş parçacığının CurrentUICulture özelliğini geçersiz kular
+  CurrentUICulture özelliğini tüm kaynak aramaları için geçersiz kılar.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources._0_78748_b054767c_L">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources._67684_hd_cizgili_arkaplan_resimleri_wallpaper_9">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources.blurred_background_4">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources.EnesHack">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources.gray_black_shadow_surface_line_11284_1080x1920">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources.gray_black_texture_surface_point_236_1080x1920">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources.grid_linesdark">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources.sadsa">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources.sfb3">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+<member name="P:Jazzcorp_Not_Defteri.My.Resources.Resources.turk_bayragi_arkaplan_18">
+<summary>
+  System.Drawing.Bitmap türünde yerelleştirilmiş bir kaynak arar.
+</summary>
+</member>
+</members>
+</doc>

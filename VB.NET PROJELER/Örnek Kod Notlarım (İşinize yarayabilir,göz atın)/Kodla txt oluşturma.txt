@@ -1,0 +1,12 @@
+Dim Yol As String = "C:\TextDosyam.txt"
+        If System.IO.File.Exists(Yol) = False Then
+ 
+            Dim YazYap As System.IO.StreamWriter = System.IO.File.CreateText(Yol)
+ 
+            Dim Item As Object
+            For Each Item In Me.ListBox1.Items
+                YazYap.WriteLine(Item & vbNewLine)
+            Next
+            YazYap.Flush()
+            YazYap.Close()
+        End If

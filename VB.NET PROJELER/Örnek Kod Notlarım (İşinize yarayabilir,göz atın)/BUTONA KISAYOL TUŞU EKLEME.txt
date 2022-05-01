@@ -1,0 +1,20 @@
+Formumuza 1 adet buton 1 adet timer ekliyoruz.
+
+KODLAR
+
+Public Class ýn altýna
+Kod:
+Public Class Form1
+
+    Declare Function GetAsyncKeyState Lib "user32" (ByVal vKey As System.Windows.Forms.Keys) As Short
+
+Form load kýsýmýna
+Kod:
+Timer1.Interval = 100
+        Timer1.Enabled = True
+
+Timer ýmýza
+Kod:
+If GetAsyncKeyState(Keys.Insert) Then
+Button1.PerformClick()
+End if

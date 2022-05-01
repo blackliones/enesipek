@@ -1,0 +1,10 @@
+Form1 in altýna
+
+ Declare Function ProgressBar Lib "user32" Alias "SendMessageA" (ByVal hwnd As Integer, ByVal wMsg As Integer, ByVal wParam As Integer, ByVal lParam As Integer) As Integer
+
+Butona :
+ 'User32 Dll sinde bulunan progressbar apisi çaðrýlýyor.
+        ProgressBar(ProgressBar1.Handle, 1040, ComboBox1.SelectedIndex + 1, 3)
+
+        'Progressbarý doldurmasý için timer baþlatýlýyor.
+        Timer1.Start()

@@ -1,0 +1,7 @@
+textbox'in MultiLine ozelligini True yapacaksin
+
+sonra da:
+
+Private Sub Command1_Click()
+Text1.Text = "satir1" & vbCrLf & "satir2" & vbCrLf & "satir3"
+End Sub

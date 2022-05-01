@@ -1,0 +1,15 @@
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\bin\Debug\Paw Media Player v1.exe.config
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\bin\Debug\Paw Media Player v1.exe
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\bin\Debug\Paw Media Player v1.pdb
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\bin\Debug\Paw Media Player v1.xml
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\obj\Debug\Paw_Media_Player_v1.Form1.resources
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\obj\Debug\Paw_Media_Player_v1.Resources.resources
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\obj\Debug\Paw Media Player v1.vbproj.GenerateResource.Cache
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\obj\Debug\Paw Media Player v1.exe
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\obj\Debug\Paw Media Player v1.xml
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\obj\Debug\Paw Media Player v1.pdb
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Enes\AppData\Local\Temporary Projects\Paw Media Player v1\obj\Debug\Paw Media Player v1.vbproj.ResolveComReference.cache

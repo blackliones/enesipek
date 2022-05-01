@@ -1,0 +1,6 @@
+Formumuza 1 adet label ve 1 adet timer ekledikten sonra ;
+
+Private Sub Timer1_Tick(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Timer1.Tick
+        Label1.Text = Label1.Text.Substring(1) + Label1.Text.Substring(0, 1)
+    End Sub
+

@@ -1,0 +1,6 @@
+Dim i As Integer
+        For i = 1 To 4
+            MsgBox("Visual Basic.NET")
+        Next
+
+4 ekadar tekrar eden msg box

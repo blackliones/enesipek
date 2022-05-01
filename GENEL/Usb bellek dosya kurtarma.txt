@@ -1,0 +1,4 @@
+Baþlat/ çalýþtýr  a týklayýp. cmd yazýp enterlayýn. (Windows + R çalýþtýrý açar)
+cd\yazýp enterlayýn.
+g:yaz enter’a bas. (Flash belleðiniz bilgisayarým ýn içinde hangi harfle gösteriliyorsa g: yerine onu yazýyoruz)
+attrib /s /d -r -a -s -h  yaz enter’a bas.

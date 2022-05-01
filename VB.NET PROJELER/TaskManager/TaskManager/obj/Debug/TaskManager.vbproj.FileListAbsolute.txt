@@ -1,0 +1,4 @@
+C:\Users\Enes\Desktop\EnesHack\Visual Studio\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+C:\Users\Enes\Desktop\EnesHack\Visual Studio\TaskManager\TaskManager\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Enes\Desktop\EnesHack\Visual Studio\TaskManager\TaskManager\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Enes\Desktop\EnesHack\Visual Studio\TaskManager\TaskManager\obj\Debug\TaskManager.vbproj.ResolveComReference.cache

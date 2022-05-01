@@ -1,0 +1,11 @@
+c:\users\bilal\documents\visual studio 2015\Projects\Dns Clear\Dns Clear\bin\Debug\Dns Clear.exe.config
+c:\users\bilal\documents\visual studio 2015\Projects\Dns Clear\Dns Clear\obj\Debug\Dns Clear.vbprojResolveAssemblyReference.cache
+c:\users\bilal\documents\visual studio 2015\Projects\Dns Clear\Dns Clear\obj\Debug\Dns_Clear.Form1.resources
+c:\users\bilal\documents\visual studio 2015\Projects\Dns Clear\Dns Clear\obj\Debug\Dns_Clear.Resources.resources
+c:\users\bilal\documents\visual studio 2015\Projects\Dns Clear\Dns Clear\obj\Debug\Dns Clear.vbproj.GenerateResource.Cache
+c:\users\bilal\documents\visual studio 2015\Projects\Dns Clear\Dns Clear\obj\Debug\Dns Clear.xml
+c:\users\bilal\documents\visual studio 2015\Projects\Dns Clear\Dns Clear\bin\Debug\Dns Clear.exe
+c:\users\bilal\documents\visual studio 2015\Projects\Dns Clear\Dns Clear\bin\Debug\Dns Clear.pdb
+c:\users\bilal\documents\visual studio 2015\Projects\Dns Clear\Dns Clear\bin\Debug\Dns Clear.xml
+c:\users\bilal\documents\visual studio 2015\Projects\Dns Clear\Dns Clear\obj\Debug\Dns Clear.exe
+c:\users\bilal\documents\visual studio 2015\Projects\Dns Clear\Dns Clear\obj\Debug\Dns Clear.pdb

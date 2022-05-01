@@ -1,0 +1,10 @@
+C:\Users\Bilal\source\repos\Robot Kol Kontrol\Robot Kol Kontrol\bin\Debug\Robot Kol Kontrol.exe.config
+C:\Users\Bilal\source\repos\Robot Kol Kontrol\Robot Kol Kontrol\bin\Debug\Robot Kol Kontrol.exe
+C:\Users\Bilal\source\repos\Robot Kol Kontrol\Robot Kol Kontrol\bin\Debug\Robot Kol Kontrol.pdb
+C:\Users\Bilal\source\repos\Robot Kol Kontrol\Robot Kol Kontrol\obj\Debug\Robot Kol Kontrol.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\source\repos\Robot Kol Kontrol\Robot Kol Kontrol\obj\Debug\Robot_Kol_Kontrol.Form1.resources
+C:\Users\Bilal\source\repos\Robot Kol Kontrol\Robot Kol Kontrol\obj\Debug\Robot_Kol_Kontrol.Properties.Resources.resources
+C:\Users\Bilal\source\repos\Robot Kol Kontrol\Robot Kol Kontrol\obj\Debug\Robot Kol Kontrol.csproj.GenerateResource.Cache
+C:\Users\Bilal\source\repos\Robot Kol Kontrol\Robot Kol Kontrol\obj\Debug\Robot Kol Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\Bilal\source\repos\Robot Kol Kontrol\Robot Kol Kontrol\obj\Debug\Robot Kol Kontrol.exe
+C:\Users\Bilal\source\repos\Robot Kol Kontrol\Robot Kol Kontrol\obj\Debug\Robot Kol Kontrol.pdb

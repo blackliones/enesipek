@@ -1,0 +1,9 @@
+@echo off
+ipconfig /flushdns
+ipconfig /release
+ipconfig /renew
+cls
+echo DNS Resetlendi (EnesHack(CODER)
+echo CIKIÞ ICIN BIR TUSA BASINIZ...(EnesHack(CODER)
+echo (EnesHack(CODER) iyi gunler diler.
+pause

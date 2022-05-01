@@ -1,0 +1,34 @@
+Sürüklemek istedigimiz aracýn
+All Drop özelliði = True olmalýdýr
+ve örnek list box gibi bi araç koymalýyýz
+ve kodlarý
+
+Visual Basic (VB)
+listbox drag over
+If e.Data.GetDataPresent(DataFormats.FileDrop) Then 
+            e.Effect = DragDropEffects.All 
+End If  
+
+list box drag drop olayýnada
+ Dim file As String() = DirectCast(e.Data.GetData(DataFormats.FileDrop, True), System.String()) 
+
+        For Each s As String In file 
+            ListBox1.Items.Add(s) 
+        Next  
+
+fakat sýnýrlamak istersek her dosya sürüklenmemesi için
+drag drop
+Dim file As String() = DirectCast(e.Data.GetData(DataFormats.FileDrop, True), System.String()) 
+
+        For Each s As String In file 
+            If s.Contains(".mp3") Then 
+                listBox.Items.Add(Path.GetFileName(s[s]));
+            Else 
+                Exit Sub 
+            End If 
+        Next 
+drag enter
+
+        If e.Data.GetDataPresent(DataFormats.FileDrop) Then 
+            e.Effect = DragDropEffects.All 
+        End If 

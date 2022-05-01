@@ -1,0 +1,123 @@
+   <script>
+                            function cartDropdownButton(top_parent_id) {
+                                let dropdown = document.getElementById(top_parent_id);
+                                let window_id = dropdown.getElementsByClassName("mt-dropdown-window")[0].id;
+                                let window = document.getElementById(window_id);
+                                window.style.display = window.style.display == "block" ? "none" : "block";
+                            }
+                            $(document).ready(function (){
+                                $(".general-category-list-item").click(function (){
+                                    let item = $(this);
+                                    let window_id = $(this).parent().attr('id');
+                                    let window = document.getElementById(window_id);
+                                    let text_input = window.parentElement.getElementsByTagName('input')[0];
+                                    text_input.value = item.attr('value');
+                                    window.style.display = "none";
+                                });
+                            });
+                        </script>
+    <div class="mt-dropdown-header" id="mt-dropdown-header"><!--MAENTECH DROPDOWN-->
+                <input type="text" class="mt-dropdown-text" placeholder="Kategoriler">
+                <div class="mt-dropdown-button" onclick="DropdownButton('mt-dropdown-category');">
+                    <img tabindex="1" src="../Images/dropdown_button.png">
+                </div>
+                <ol class="mt-dropdown-window" id="general-category-list">
+                    <?php
+                    foreach ($categories as $value) {
+                        $id = $value['id'];
+                        $text = $value['name'];
+                        echo "<li onclick='DropdownSelectedItem($id)' name='$text' id='$id' tabindex='2'>$text</li>";
+                    }
+                    ?>
+                </ol>
+            </div>
+        </div>
+-------------------------------------------------------------------------------------------
+/*---------------------------CSS KISMI--------------------------------------*/
+/*region MaenTech Dropdown*/
+.mt-dropdown{
+    position: absolute;
+    width: 10rem;
+    margin-left:2rem;
+    margin-top:2rem;
+    /*width: 100%;
+    height:100%;*/
+    background: transparent;
+}
+.mt-dropdown-header{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 10rem;
+    height: 2rem;
+    margin-left:2rem;
+    /*width: 100%;
+    height:100%;*/
+    background: transparent;
+}
+.mt-dropdown .mt-dropdown-header .mt-dropdown-text{
+    position: absolute;
+    border-top-left-radius: 0.3rem;
+    border-bottom-left-radius: 0.3rem;
+    left:0;
+    top:0;
+    width: 80%;
+    height: 2rem;
+    border-style: none;
+    background: whitesmoke;
+}
+.mt-dropdown .mt-dropdown-header .mt-dropdown-button{
+    position: absolute;
+    left: 0;
+    top:0;
+    border-top-right-radius: 0.3rem;
+    border-bottom-right-radius: 0.3rem;
+    margin-left: 80%;
+    width: 20%;
+    height: 100%;
+    background-color: whitesmoke;
+    border-style: none;
+}
+.mt-dropdown .mt-dropdown-header .mt-dropdown-button input {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-style: none;
+    cursor: pointer;
+}
+.mt-dropdown .mt-dropdown-header .mt-dropdown-button img:focus{
+    border-top-right-radius: 0.3rem;
+    border-bottom-right-radius: 0.3rem;
+    background-color: #e1e1e1;
+}
+.mt-dropdown-button img{
+    position: absolute;
+    left:0;
+    top:0;
+    width: 100%;
+    height: 100%;
+}
+.mt-dropdown .mt-dropdown-window{
+    display: none;
+    position: absolute;
+    overflow-y:auto;
+    background: white;
+    width: 100%;
+    margin-top:2rem;
+    max-height: 6rem;
+    user-select: none;
+    border-radius: 0.3rem;
+}
+.mt-dropdown .mt-dropdown-window li{
+    list-style: none;
+    cursor: default;
+    list-style: none;
+    position: relative;
+    display: list-item;
+    margin-left:0.1rem;
+}
+.mt-dropdown .mt-dropdown-window li:active {
+    background-color: #1c1f23;
+    color: whitesmoke;
+}
+/*endregion MaenTech Dropdown*/

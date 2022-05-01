@@ -1,0 +1,48 @@
+Imports System.IO
+Imports AxWMPLib
+Imports WMPLib
+
+Public Class Form1
+    Dim Playlist As IWMPPlaylist = Nothing
+
+
+    Private Sub ListBox1_DragDrop(sender As Object, e As DragEventArgs) Handles ListBox1.DragDrop
+        Dim s() As String = e.Data.GetData("FileDrop", False)
+        Dim i As Integer
+        If Playlist Is Nothing Then
+            Playlist = AxWindowsMediaPlayer1.newPlaylist("myPlayList", "")
+
+        End If
+        Dim AllowedTypes As String = ".dvr-ms .avi .mp3 .wav"
+        For i = 0 To s.Length - 1
+            If AllowedTypes.Contains(Path.GetExtension(s(i))) Then
+                ListBox1.Items.Add(Path.GetFileName(s(i)))
+                Playlist.appendItem(AxWindowsMediaPlayer1.newMedia(s(i)))
+            End If
+        Next i
+        AxWindowsMediaPlayer1.currentPlaylist = Playlist
+        AxWindowsMediaPlayer1.Ctlcontrols.play()
+    End Sub
+
+    Private Sub ListBox1_DragEnter(sender As Object, e As DragEventArgs) Handles ListBox1.DragEnter
+        If (e.Data.GetDataPresent(DataFormats.FileDrop)) Then
+            e.Effect = DragDropEffects.All
+        Else
+            e.Effect = DragDropEffects.None
+        End If
+    End Sub
+
+    Private Sub ListBox1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ListBox1.SelectedIndexChanged
+        Try
+            For x As Integer = 0 To AxWindowsMediaPlayer1.currentPlaylist.count - 1
+                If AxWindowsMediaPlayer1.currentPlaylist.Item(x).sourceURL = Path.Combine("C:\RecordedTV\Fettah Can - Delirme (Official Video).mp3", ListBox1.SelectedItem) Then
+                    AxWindowsMediaPlayer1.Ctlcontrols.playItem(AxWindowsMediaPlayer1.currentPlaylist.Item(x))
+                    Exit For
+                End If
+            Next
+        Catch ex As Exception
+            MessageBox.Show(ex.Message, "", MessageBoxButtons.OK)
+        End Try
+    End Sub
+
+End Class

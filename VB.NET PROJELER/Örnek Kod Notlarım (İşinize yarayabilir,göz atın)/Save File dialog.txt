@@ -1,0 +1,26 @@
+TEXTBOXA YAZILAN DOSYAYI KAYDETMEK ÝÇÝN
+Imports system.IO
+form
+ 
+Button
+  Try
+            SaveFileDialog1.Filter = "Metin Belgesi (*.txt)|*.txt"
+            SaveFileDialog1.ShowDialog()
+            Dim a As String = SaveFileDialog1.FileName
+            File.WriteAllText(a, RichTextBox1.Text)
+            MsgBox("Kaydedildi!!!", MsgBoxStyle.Information)
+        Catch ex As Exception
+            MsgBox("Hata" & ex.Message, MsgBoxStyle.Critical)
+        End Try
+
+Eðer ListBox yazdýrcaksan 
+    SaveFileDialog1.Filter = "Metin Belgesi (*.txt)|*.txt"
+        Dim Yazdir As New IO.StreamWriter(SaveFileDialog1.ShowDialog)
+        Dim i As Integer
+        For i = 0 To ListBox1.Items.Count - 1
+            Yazdir.WriteLine(ListBox1.Items.Item(i))
+        Next
+        Yazdir.Close()
+        If My.Settings.history Is Nothing Then
+            My.Settings.history = New StringCollection
+        End If

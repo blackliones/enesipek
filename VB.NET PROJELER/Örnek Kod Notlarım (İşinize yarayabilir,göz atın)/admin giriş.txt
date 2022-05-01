@@ -1,0 +1,8 @@
+  If TextBox1.Text = "enesipek" And TextBox2.Text = "metin2000" Then
+            MessageBox.Show("Giriþ baþarýlý")
+            Form3.Show()
+            Me.Hide()
+        Else
+            MessageBox.Show("Giriþ baþarýsýz")
+            TextBox1.Text = ""
+            TextBox2.Text = ""

@@ -1,0 +1,5 @@
+C:\Users\Enes\Desktop\EnesHack\Visual Studio\Arduino Led Brightness\Arduino Led Brightness\bin\Release\Arduino Led Brightness.exe.config
+C:\Users\Enes\Desktop\EnesHack\Visual Studio\Arduino Led Brightness\Arduino Led Brightness\obj\Release\Arduino_Led_Brightness.Form1.resources
+C:\Users\Enes\Desktop\EnesHack\Visual Studio\Arduino Led Brightness\Arduino Led Brightness\obj\Release\Arduino_Led_Brightness.Properties.Resources.resources
+C:\Users\Enes\Desktop\EnesHack\Visual Studio\Arduino Led Brightness\Arduino Led Brightness\obj\Release\Arduino Led Brightness.csproj.GenerateResource.Cache
+C:\Users\Enes\Desktop\EnesHack\Visual Studio\Arduino Led Brightness\Arduino Led Brightness\obj\Release\Arduino Led Brightness.csprojResolveAssemblyReference.cache

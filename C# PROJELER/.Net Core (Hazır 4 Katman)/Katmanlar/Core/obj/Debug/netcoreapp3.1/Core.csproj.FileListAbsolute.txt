@@ -1,0 +1,10 @@
+E:\Codes\C# BACKEND-FRONTEND\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+E:\Codes\C# BACKEND-FRONTEND\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.dll
+E:\Codes\C# BACKEND-FRONTEND\NorthwindBackend\Core\bin\Debug\netcoreapp3.1\Core.pdb
+E:\Codes\C# BACKEND-FRONTEND\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+E:\Codes\C# BACKEND-FRONTEND\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C# BACKEND-FRONTEND\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+E:\Codes\C# BACKEND-FRONTEND\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+E:\Codes\C# BACKEND-FRONTEND\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+E:\Codes\C# BACKEND-FRONTEND\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.dll
+E:\Codes\C# BACKEND-FRONTEND\NorthwindBackend\Core\obj\Debug\netcoreapp3.1\Core.pdb

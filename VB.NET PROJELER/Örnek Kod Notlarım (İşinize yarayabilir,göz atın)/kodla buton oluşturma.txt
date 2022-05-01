@@ -1,0 +1,17 @@
+
+Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+'Bu kýsým kodlarla buton oluþturma
+Dim buton As New Button 'bir buton tanýmladýk
+buton.Width = 200 'boyutlarýný belirledik
+buton.Height = 30
+buton.Location = New Point(20, 20) 'yerini belirledik
+buton.Text = "Kodlarla Oluþturulan Buton" 'yazýsýný belirledik
+Me.Controls.Add(buton) 'Forma ekledik. Bunu yazmazsanýz butonunuzu göremezsiniz
+'þimdi butonun click olayý esnasýnda nereye gideceðini belirticez
+AddHandler buton.Click, AddressOf mesaj
+End Sub
+
+'bu kýsmý kopyalayýp kod penceresine yapýþtýrýn
+Private Sub mesaj(ByVal sender As System.Object, ByVal e As System.EventArgs)
+MsgBox("merhaba")
+End Sub

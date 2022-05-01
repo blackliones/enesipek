@@ -1,0 +1,23 @@
+Imports System.Collections.Specialized
+Public Class Form 1
+form load 
+ If My.Settings.history3 IsNot Nothing Then
+            For Each item3 In My.Settings.history3
+                ListBox1.Items.Add(item3)
+            Next
+        End If
+Timer1.start()
+End Sub
+
+Timer1_Tick
+        If My.Settings.history3 Is Nothing Then
+            My.Settings.history3 = New StringCollection
+        End If
+
+        My.Settings.history3.Clear()
+        For Each item3 In ListBox1.Items
+            My.Settings.history.Remove(item3)
+        Next
+        My.Settings.Save()
+Button1_Click
+ListBox1.Items.Remove(listbox1.selectedItem)

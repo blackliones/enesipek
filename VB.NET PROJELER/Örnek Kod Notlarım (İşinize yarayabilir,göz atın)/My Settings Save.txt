@@ -1,0 +1,53 @@
+VB.NET
+Imports System.Collections.Specialized
+Public Class Form 1
+form load 
+  If My.Settings.history IsNot Nothing Then
+        For Each item In My.Settings.history
+            ListBox1.Items.Add(item)
+        Next
+    End If
+Timer1.start()
+End Sub
+
+Timer1_Tick
+     If My.Settings.history Is Nothing Then
+            My.Settings.history = New StringCollection
+        End If
+
+        My.Settings.history.Clear()
+        For Each item In ListBox1.Items
+            My.Settings.history.Add(item)
+        Next
+        My.Settings.Save()
+Button1_Click
+ListBox1.Items.Add(TextBox1.text)
+
+C#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

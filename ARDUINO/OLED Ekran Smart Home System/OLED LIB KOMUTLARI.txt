@@ -1,0 +1,68 @@
+/*Fonksiyonlar OLED LIBRARY NAME= oledIIC
+ * #include <Wire.h>
+#include <oledIIC.h> KÜTÜPHANELER
+ *OLED.imlec(x,y); //EKSEN X: 0-20, Y: 0-7
+ *OLED.yaz(STRÝNG); YAZI YAZMA
+ *OLED.yazSayi((long)15) TAM SAYI YAZMA
+ *OLED.yazSayi((float)8.20, 2); ONDALIK SAYI YAZMA(sayi,ondalýk deðeri)
+ *OLED.baslatEkranIIC(0x3C); EKRANI BASLATIR
+ *OLED.solKaydir(3,4,6); X1,X2,SPEED
+  *OLED.iptalKaydir(); KAYDIRMAYI ÝPTAL EDER
+ *OLED.yazKarakter(221); Ý HARFÝ
+ *OLED.yazKarakter(220); Ü HARFÝ
+ *OLED.cizBitmap(ard_logo,128,64,0,0)
+ *OLED.parlaklik(deðiþken);0-100
+ *OLED.negatifMod();
+*OLED.kapaliEkran();// EKRANI KAPATIR SLEEP ON
+*OLED.acikEkran();//EKRANI AÇAR  SLEEP OFF GÝBÝ
+ *OLED.normalMod();
+ *OLED.temizEkran();
+ *OLED.sagKaydirDikey(5); EKRANI SAG ÜSTE 5 HIZINDA KALDIRIR(MAX7)
+ *OLED.solKaydirDikey(5);MAX 7 DEGERÝ ALIR
+  */
+
+
+
+
+
+
+/*Fonksiyonlar OLED LIBRARY NAME= Grove Oled Display 0.96
+*#include <Wire.h>
+#include <SeeedOLED.h> kütüphaneler
+ Wire.begin();		
+  SeeedOled.init(); baþlatma 
+ SeeedOled.clearDisplay();               // clear the screen and set start position to top left corner
+  SeeedOled.deactivateScroll();           // deactivete Scroll (might be activated by previous test case)
+  SeeedOled.setNormalDisplay();           // Non-inverted Display 
+  SeeedOled.setPageMode();                // Page mode to start with
+  SeeedOled.setTextXY(2,0);               // 0 Page, 0th Column  
+  SeeedOled.putString("Test Case ");
+  SeeedOled.putNumber(testCase);
+  SeeedOled.setHorizontalMode();     
+ SeeedOled.drawBitmap((unsigned char*) SeeedLogo,1024);   // 1024 = 128 Pixels * 64 Pixels / 8
+ SeeedOled.setInverseDisplay(); 
+SeeedOled.setHorizontalScrollProperties(Scroll_Left,4,7,Scroll_5Frames); //Set Scrolling properties to Scroll Left
+  SeeedOled.activateScroll();
+
+// SSD 1306  LÝBRARY
+display.setTextSize(1);0-4
+display.display();
+display.clearDisplay();
+display.setTextColor(WHITE); 
+display.setTextColor(BLACK,WHITE); 
+display.setCursor(0,0);//X,Y
+display.print("MRB");
+display.println("MRB");
+display.write("mrb");
+ display.drawBitmap(30, 16,  logo16_glcd_bmp, 16, 16, 1);
+ display.drawCircle(display.width()/2, display.height()/2, i, WHITE);
+  display.drawLine(0, 0, i, display.height()-1, WHITE);
+ display.invertDisplay(true);
+  display.invertDisplay(false);
+display.width();
+display.height();
+display.startscrollright(0x00, 0x0F);
+  display.stopscroll();
+  display.startscrollleft(0x00, 0x0F);
+  display.startscrolldiagright(0x00, 0x07);
+  display.startscrolldiagleft(0x00, 0x07);

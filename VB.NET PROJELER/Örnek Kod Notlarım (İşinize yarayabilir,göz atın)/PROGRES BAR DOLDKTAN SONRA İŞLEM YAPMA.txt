@@ -1,0 +1,19 @@
+TÝMER KODU
+
+  If ProgressBar1.Value = ProgressBar1.Maximum Then
+            ProgressBar1.Value = 1
+            Timer1.Stop()
+        Else
+            ProgressBar1.Value = ProgressBar1.Value + 1
+        End If
+--------------------------------------------------------------------------
+BUTTON KODU
+Timer1.start
+
+
+
+
+1ADET TÝMER
+1 ADET BUTON
+1 ADET PROGRESS BAR
+

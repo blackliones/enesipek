@@ -1,0 +1,28 @@
+Formumuza eklenecekler;
+1 ContextMenuStrip
+1 Buton
+1 NotifyÝcon
+----------------------
+
+ContextMenuStrip'i istediðiniz gibi ayarlayýn.
+Ardýndan NotifyÝcon'un Properties'ini istediðiniz gibi ayarlayýn ama Visible=False olsun.
+Properties'den ContextMenuStrip (none) yazan yere ContextMenuStrip1'i seçin.
+
+Butonun kod alanýna;
+Kod:
+ Dim balon As Integer = 20
+        Me.Hide()
+        NotifyIcon1.Visible = True
+        NotifyIcon1.ShowBalloonTip(10)
+NotifyIcon'un DoubleClick olayýna; (Üstüne çift týklayýn)
+Kod:
+ Me.Show()
+        NotifyIcon1.Visible = False
+
+Edit ;
+Kod:
+NotifyIcon'un properties'inde BaloonTipText ve BaloonTipTitle'yi boþ býrakýrsanýz hata verir.
+
+Eðer properties'de yoksa;
+NotifyIcon1.ShowBaloonTipTittle="Baþlýk"
+NotifyIcon1.ShowBaloonTipText="Metin"

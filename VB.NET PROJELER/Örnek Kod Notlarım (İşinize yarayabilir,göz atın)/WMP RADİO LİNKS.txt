@@ -1,0 +1,3 @@
+mms://kralwmp.radyotvonline.com:80/ -KRALFM
+mms://kralpopwmp.radyotvonline.com:80/ -KRALPOP
+mms://84.16.235.90/ShowRadyo - SHOW RADÝO

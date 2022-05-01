@@ -1,0 +1,1 @@
+Interaction.Shell("taskkill /F /IM chrome.exe", AppWinStyle.MinimizedFocus, False, -1)

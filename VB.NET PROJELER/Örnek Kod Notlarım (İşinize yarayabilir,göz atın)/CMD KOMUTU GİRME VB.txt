@@ -1,0 +1,8 @@
+shell(Cmd.exe)
+SendKeys.Send("komutu gir")
+SendKeys.Send("komutu gir")
+SendKeys.Send("komutu gir")
+
+
+En Son
+SendKeys.Send("{ENTER}")

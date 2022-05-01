@@ -1,0 +1,26 @@
+1adet label
+1adet timer
+KAYAN YAZI ÇEÞÝTLERÝ
+ 
+Public Class Form1
+Dim LL, II, PP As Integer
+Dim TXT As String
+
+Form Load
+TXT = "BURAYA YAZI GELCEK"
+LL = Len(TXT)
+II = 1
+PP = 1
+
+Timer 
+Label1.text = label1.text + Mid(TXT, II, 1)
+If II > LL Then
+II = 0
+Label1.text = ""
+End If
+II = II + 1
+
+DÝÐER KAYAN YAZI
+TÝMER 
+   Label4.Left = Label4.Left - 2
+        If Label4.Left > Panel1.Width Then Label4.Left = 0

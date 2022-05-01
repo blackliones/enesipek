@@ -1,0 +1,5 @@
+Dns Deðiþtirme:
+netsh int ip set dns “Yerel Að Baðlantýsý” static 208.67.222.222 primary 
+
+Eski Haline Getirme:
+netsh int ip set dns “Yerel Að Baðlantýsý” static 192.168.2.1 primary

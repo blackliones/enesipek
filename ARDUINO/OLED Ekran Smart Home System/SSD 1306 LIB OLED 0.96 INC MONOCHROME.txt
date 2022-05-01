@@ -1,0 +1,33 @@
+// SSD 1306  LÝBRARY
+#include <SPI.h>
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
+Adafruit_SSD1306 display(4);
+display.begin(SSD1306_SWITCHCAPVCC, 0x3C);//VOÝD START
+display.setTextSize(1);0-4
+display.display();
+display.clearDisplay();
+display.setTextColor(WHITE); 
+display.setTextColor(BLACK,WHITE); 
+display.setCursor(0,0);//X:0-120,Y:0-24 
+display.print("MRB");
+display.println("MRB");
+display.write("mrb");
+ display.fillRect(0,0,120,8,WHITE);
+display.fillScreen(BLACK);
+ display.drawBitmap(30, 16,  logo16_glcd_bmp, 16, 16, 1);
+ display.drawCircle(display.width()/2, display.height()/2, i, WHITE);
+   display.drawLine(xstart, ystart, xend,yend, color);//
+  display.drawFastVLine(x, y,kaç pixel yazsýn,renk);//VERTÝCAL
+  display.drawFastVLine(x, y,kaç pixel yazsýn,renk);//HORÝZONTAL
+ display.invertDisplay(true);
+  display.invertDisplay(false);
+display.width();
+display.height();
+display.startscrollright(0x00, 0x0F);
+  display.stopscroll();
+  display.startscrollleft(0x00, 0x0F);
+  display.startscrolldiagright(0x00, 0x07);
+  display.startscrolldiagleft(0x00, 0x07);
+ -------------------------

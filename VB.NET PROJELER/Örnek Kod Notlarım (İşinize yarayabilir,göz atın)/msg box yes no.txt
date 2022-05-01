@@ -1,0 +1,18 @@
+Visual Basic 
+If MsgBox("MESAJ ?", MsgBoxStyle.YesNo, "MESAJ") = MsgBoxResult.Yes Then
+'Evet - Kod Alan
+Else
+'Hayr - Kod Alan
+EndIf
+
+C# C SHARP
+
+DialogResult dialogResult = MessageBox.Show("Sure", "Some Title", MessageBoxButtons.YesNo);
+if(dialogResult == DialogResult.Yes)
+{
+    //do something
+}
+else if (dialogResult == DialogResult.No)
+{
+    //do something else
+}

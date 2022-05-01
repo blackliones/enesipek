@@ -1,0 +1,11 @@
+VB.NET
+Renkli label
+Label8.ForeColor = Color.FromArgb(255, Rnd() * 255, Rnd() * 255, Rnd() * 255)
+
+link label : 
+System.Diagnostics.Process.Start("https://www.facebook.com/photo.php?v=374652349366926&set=vb.210704022428427&type=2&theater")
+
+C SHARP (C#)
+Renkli Label
+Random rnd = new Random();
+lbl.ForeColor = Color.FromArgb(rnd.Next(255), rnd.Next(255), rnd.Next(255));

@@ -1,0 +1,1724 @@
+fileFormatVersion: 2
+guid: c650d2b4ffd6fad469927dbc74198faf
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Asphalt
+    100002: BlindFacadeGF
+    100004: BlindFacadeTextured
+    100006: BlindFacadeTextured_1
+    100008: BlindFacadeTextured_2
+    100010: BlindFacadeTextured_3
+    100012: Camera
+    100014: ChimneyBase
+    100016: ChimneyBase_1
+    100018: ChimneyBase_10
+    100020: ChimneyBase_11
+    100022: ChimneyBase_12
+    100024: ChimneyBase_13
+    100026: ChimneyBase_14
+    100028: ChimneyBase_15
+    100030: ChimneyBase_16
+    100032: ChimneyBase_17
+    100034: ChimneyBase_18
+    100036: ChimneyBase_19
+    100038: ChimneyBase_2
+    100040: ChimneyBase_20
+    100042: ChimneyBase_3
+    100044: ChimneyBase_4
+    100046: ChimneyBase_5
+    100048: ChimneyBase_6
+    100050: ChimneyBase_7
+    100052: ChimneyBase_8
+    100054: ChimneyBase_9
+    100056: Concrete
+    100058: Concrete_MeshPart0
+    100060: Concrete_MeshPart1
+    100062: Curbs
+    100064: Curbs_MeshPart0
+    100066: Curbs_MeshPart1
+    100068: Curbs_MeshPart2
+    100070: Curbs_MeshPart3
+    100072: Curbs_MeshPart4
+    100074: FacadeSets
+    100076: FacadeSets_1
+    100078: FacadeSets_10
+    100080: FacadeSets_11
+    100082: FacadeSets_12
+    100084: FacadeSets_13
+    100086: FacadeSets_14
+    100088: FacadeSets_15
+    100090: FacadeSets_16
+    100092: FacadeSets_17
+    100094: FacadeSets_18
+    100096: FacadeSets_19
+    100098: FacadeSets_2
+    100100: FacadeSets_20
+    100102: FacadeSets_21
+    100104: FacadeSets_22
+    100106: FacadeSets_23
+    100108: FacadeSets_24
+    100110: FacadeSets_25
+    100112: FacadeSets_26
+    100114: FacadeSets_27
+    100116: FacadeSets_28
+    100118: FacadeSets_29
+    100120: FacadeSets_3
+    100122: FacadeSets_30
+    100124: FacadeSets_31
+    100126: FacadeSets_32
+    100128: FacadeSets_33
+    100130: FacadeSets_34
+    100132: FacadeSets_35
+    100134: FacadeSets_36
+    100136: FacadeSets_37
+    100138: FacadeSets_38
+    100140: FacadeSets_39
+    100142: FacadeSets_4
+    100144: FacadeSets_40
+    100146: FacadeSets_41
+    100148: FacadeSets_42
+    100150: FacadeSets_43
+    100152: FacadeSets_44
+    100154: FacadeSets_45
+    100156: FacadeSets_46
+    100158: FacadeSets_47
+    100160: FacadeSets_48
+    100162: FacadeSets_49
+    100164: FacadeSets_5
+    100166: FacadeSets_50
+    100168: FacadeSets_51
+    100170: FacadeSets_52
+    100172: FacadeSets_53
+    100174: FacadeSets_54
+    100176: FacadeSets_55
+    100178: FacadeSets_56
+    100180: FacadeSets_57
+    100182: FacadeSets_58
+    100184: FacadeSets_59
+    100186: FacadeSets_6
+    100188: FacadeSets_60
+    100190: FacadeSets_61
+    100192: FacadeSets_62
+    100194: FacadeSets_63
+    100196: FacadeSets_64
+    100198: FacadeSets_65
+    100200: FacadeSets_66
+    100202: FacadeSets_67
+    100204: FacadeSets_68
+    100206: FacadeSets_69
+    100208: FacadeSets_7
+    100210: FacadeSets_70
+    100212: FacadeSets_71
+    100214: FacadeSets_72
+    100216: FacadeSets_73
+    100218: FacadeSets_74
+    100220: FacadeSets_75
+    100222: FacadeSets_76
+    100224: FacadeSets_77
+    100226: FacadeSets_78
+    100228: FacadeSets_79
+    100230: FacadeSets_8
+    100232: FacadeSets_80
+    100234: FacadeSets_81
+    100236: FacadeSets_9
+    100238: FaitageArdoise
+    100240: FaitageArdoise_1
+    100242: FaitageArdoise_2
+    100244: FaitageArdoise_3
+    100246: FaitageArdoise_4
+    100248: FaitageArdoise_5
+    100250: FaitageArdoise_6
+    100252: FaitageTuile
+    100254: FaitageTuile_1
+    100256: FaitageTuile_2
+    100258: FaitageTuile_3
+    100260: FaitageTuile_4
+    100262: FaitageTuile_5
+    100264: FaitageTuile_6
+    100266: FaitageZinc
+    100268: FaitageZinc_1
+    100270: FaitageZinc_2
+    100272: FaitageZinc_3
+    100274: FaitageZinc_4
+    100276: FaitageZinc_5
+    100278: FaitageZinc_6
+    100280: Lamp
+    100282: Paris2010
+    100284: //RootNode
+    100286: PrivateYard
+    100288: PrivateYard_1
+    100290: PrivateYard_2
+    100292: RoofMansardArdoise
+    100294: RoofMansardArdoise_1
+    100296: RoofMansardTuile
+    100298: RoofMansardZinc
+    100300: RoofMansardZinc_1
+    100302: RoofMansardZinc_2
+    100304: RoofTerrasse
+    100306: RoofTerrasse_1
+    100308: RoofTerrasse_2
+    100310: RoofTerrasse_3
+    100312: RoofTerrasse_4
+    100314: SidewalkTree
+    100316: SidewalkTree_MeshPart0
+    100318: SidewalkTree_MeshPart1
+    100320: Sol
+    100322: Sol_1
+    100324: Sol_2
+    100326: Sol_3
+    100328: Sol_4
+    100330: Sol_5
+    100332: Sol_6
+    100334: Sol_7
+    100336: Sol_8
+    100338: Sol_9
+    100340: StreetPart
+    100342: tree17
+    400000: Asphalt
+    400002: BlindFacadeGF
+    400004: BlindFacadeTextured
+    400006: BlindFacadeTextured_1
+    400008: BlindFacadeTextured_2
+    400010: BlindFacadeTextured_3
+    400012: Camera
+    400014: ChimneyBase
+    400016: ChimneyBase_1
+    400018: ChimneyBase_10
+    400020: ChimneyBase_11
+    400022: ChimneyBase_12
+    400024: ChimneyBase_13
+    400026: ChimneyBase_14
+    400028: ChimneyBase_15
+    400030: ChimneyBase_16
+    400032: ChimneyBase_17
+    400034: ChimneyBase_18
+    400036: ChimneyBase_19
+    400038: ChimneyBase_2
+    400040: ChimneyBase_20
+    400042: ChimneyBase_3
+    400044: ChimneyBase_4
+    400046: ChimneyBase_5
+    400048: ChimneyBase_6
+    400050: ChimneyBase_7
+    400052: ChimneyBase_8
+    400054: ChimneyBase_9
+    400056: Concrete
+    400058: Concrete_MeshPart0
+    400060: Concrete_MeshPart1
+    400062: Curbs
+    400064: Curbs_MeshPart0
+    400066: Curbs_MeshPart1
+    400068: Curbs_MeshPart2
+    400070: Curbs_MeshPart3
+    400072: Curbs_MeshPart4
+    400074: FacadeSets
+    400076: FacadeSets_1
+    400078: FacadeSets_10
+    400080: FacadeSets_11
+    400082: FacadeSets_12
+    400084: FacadeSets_13
+    400086: FacadeSets_14
+    400088: FacadeSets_15
+    400090: FacadeSets_16
+    400092: FacadeSets_17
+    400094: FacadeSets_18
+    400096: FacadeSets_19
+    400098: FacadeSets_2
+    400100: FacadeSets_20
+    400102: FacadeSets_21
+    400104: FacadeSets_22
+    400106: FacadeSets_23
+    400108: FacadeSets_24
+    400110: FacadeSets_25
+    400112: FacadeSets_26
+    400114: FacadeSets_27
+    400116: FacadeSets_28
+    400118: FacadeSets_29
+    400120: FacadeSets_3
+    400122: FacadeSets_30
+    400124: FacadeSets_31
+    400126: FacadeSets_32
+    400128: FacadeSets_33
+    400130: FacadeSets_34
+    400132: FacadeSets_35
+    400134: FacadeSets_36
+    400136: FacadeSets_37
+    400138: FacadeSets_38
+    400140: FacadeSets_39
+    400142: FacadeSets_4
+    400144: FacadeSets_40
+    400146: FacadeSets_41
+    400148: FacadeSets_42
+    400150: FacadeSets_43
+    400152: FacadeSets_44
+    400154: FacadeSets_45
+    400156: FacadeSets_46
+    400158: FacadeSets_47
+    400160: FacadeSets_48
+    400162: FacadeSets_49
+    400164: FacadeSets_5
+    400166: FacadeSets_50
+    400168: FacadeSets_51
+    400170: FacadeSets_52
+    400172: FacadeSets_53
+    400174: FacadeSets_54
+    400176: FacadeSets_55
+    400178: FacadeSets_56
+    400180: FacadeSets_57
+    400182: FacadeSets_58
+    400184: FacadeSets_59
+    400186: FacadeSets_6
+    400188: FacadeSets_60
+    400190: FacadeSets_61
+    400192: FacadeSets_62
+    400194: FacadeSets_63
+    400196: FacadeSets_64
+    400198: FacadeSets_65
+    400200: FacadeSets_66
+    400202: FacadeSets_67
+    400204: FacadeSets_68
+    400206: FacadeSets_69
+    400208: FacadeSets_7
+    400210: FacadeSets_70
+    400212: FacadeSets_71
+    400214: FacadeSets_72
+    400216: FacadeSets_73
+    400218: FacadeSets_74
+    400220: FacadeSets_75
+    400222: FacadeSets_76
+    400224: FacadeSets_77
+    400226: FacadeSets_78
+    400228: FacadeSets_79
+    400230: FacadeSets_8
+    400232: FacadeSets_80
+    400234: FacadeSets_81
+    400236: FacadeSets_9
+    400238: FaitageArdoise
+    400240: FaitageArdoise_1
+    400242: FaitageArdoise_2
+    400244: FaitageArdoise_3
+    400246: FaitageArdoise_4
+    400248: FaitageArdoise_5
+    400250: FaitageArdoise_6
+    400252: FaitageTuile
+    400254: FaitageTuile_1
+    400256: FaitageTuile_2
+    400258: FaitageTuile_3
+    400260: FaitageTuile_4
+    400262: FaitageTuile_5
+    400264: FaitageTuile_6
+    400266: FaitageZinc
+    400268: FaitageZinc_1
+    400270: FaitageZinc_2
+    400272: FaitageZinc_3
+    400274: FaitageZinc_4
+    400276: FaitageZinc_5
+    400278: FaitageZinc_6
+    400280: Lamp
+    400282: Paris2010
+    400284: //RootNode
+    400286: PrivateYard
+    400288: PrivateYard_1
+    400290: PrivateYard_2
+    400292: RoofMansardArdoise
+    400294: RoofMansardArdoise_1
+    400296: RoofMansardTuile
+    400298: RoofMansardZinc
+    400300: RoofMansardZinc_1
+    400302: RoofMansardZinc_2
+    400304: RoofTerrasse
+    400306: RoofTerrasse_1
+    400308: RoofTerrasse_2
+    400310: RoofTerrasse_3
+    400312: RoofTerrasse_4
+    400314: SidewalkTree
+    400316: SidewalkTree_MeshPart0
+    400318: SidewalkTree_MeshPart1
+    400320: Sol
+    400322: Sol_1
+    400324: Sol_2
+    400326: Sol_3
+    400328: Sol_4
+    400330: Sol_5
+    400332: Sol_6
+    400334: Sol_7
+    400336: Sol_8
+    400338: Sol_9
+    400340: StreetPart
+    400342: tree17
+    2300000: Asphalt
+    2300002: BlindFacadeGF
+    2300004: BlindFacadeTextured
+    2300006: BlindFacadeTextured_1
+    2300008: BlindFacadeTextured_2
+    2300010: BlindFacadeTextured_3
+    2300012: ChimneyBase
+    2300014: ChimneyBase_1
+    2300016: ChimneyBase_10
+    2300018: ChimneyBase_11
+    2300020: ChimneyBase_12
+    2300022: ChimneyBase_13
+    2300024: ChimneyBase_14
+    2300026: ChimneyBase_15
+    2300028: ChimneyBase_16
+    2300030: ChimneyBase_17
+    2300032: ChimneyBase_18
+    2300034: ChimneyBase_19
+    2300036: ChimneyBase_2
+    2300038: ChimneyBase_20
+    2300040: ChimneyBase_3
+    2300042: ChimneyBase_4
+    2300044: ChimneyBase_5
+    2300046: ChimneyBase_6
+    2300048: ChimneyBase_7
+    2300050: ChimneyBase_8
+    2300052: ChimneyBase_9
+    2300054: Concrete_MeshPart0
+    2300056: Concrete_MeshPart1
+    2300058: Curbs_MeshPart0
+    2300060: Curbs_MeshPart1
+    2300062: Curbs_MeshPart2
+    2300064: Curbs_MeshPart3
+    2300066: Curbs_MeshPart4
+    2300068: FacadeSets
+    2300070: FacadeSets_1
+    2300072: FacadeSets_10
+    2300074: FacadeSets_11
+    2300076: FacadeSets_12
+    2300078: FacadeSets_13
+    2300080: FacadeSets_14
+    2300082: FacadeSets_15
+    2300084: FacadeSets_16
+    2300086: FacadeSets_17
+    2300088: FacadeSets_18
+    2300090: FacadeSets_19
+    2300092: FacadeSets_2
+    2300094: FacadeSets_20
+    2300096: FacadeSets_21
+    2300098: FacadeSets_22
+    2300100: FacadeSets_23
+    2300102: FacadeSets_24
+    2300104: FacadeSets_25
+    2300106: FacadeSets_26
+    2300108: FacadeSets_27
+    2300110: FacadeSets_28
+    2300112: FacadeSets_29
+    2300114: FacadeSets_3
+    2300116: FacadeSets_30
+    2300118: FacadeSets_31
+    2300120: FacadeSets_32
+    2300122: FacadeSets_33
+    2300124: FacadeSets_34
+    2300126: FacadeSets_35
+    2300128: FacadeSets_36
+    2300130: FacadeSets_37
+    2300132: FacadeSets_38
+    2300134: FacadeSets_39
+    2300136: FacadeSets_4
+    2300138: FacadeSets_40
+    2300140: FacadeSets_41
+    2300142: FacadeSets_42
+    2300144: FacadeSets_43
+    2300146: FacadeSets_44
+    2300148: FacadeSets_45
+    2300150: FacadeSets_46
+    2300152: FacadeSets_47
+    2300154: FacadeSets_48
+    2300156: FacadeSets_49
+    2300158: FacadeSets_5
+    2300160: FacadeSets_50
+    2300162: FacadeSets_51
+    2300164: FacadeSets_52
+    2300166: FacadeSets_53
+    2300168: FacadeSets_54
+    2300170: FacadeSets_55
+    2300172: FacadeSets_56
+    2300174: FacadeSets_57
+    2300176: FacadeSets_58
+    2300178: FacadeSets_59
+    2300180: FacadeSets_6
+    2300182: FacadeSets_60
+    2300184: FacadeSets_61
+    2300186: FacadeSets_62
+    2300188: FacadeSets_63
+    2300190: FacadeSets_64
+    2300192: FacadeSets_65
+    2300194: FacadeSets_66
+    2300196: FacadeSets_67
+    2300198: FacadeSets_68
+    2300200: FacadeSets_69
+    2300202: FacadeSets_7
+    2300204: FacadeSets_70
+    2300206: FacadeSets_71
+    2300208: FacadeSets_72
+    2300210: FacadeSets_73
+    2300212: FacadeSets_74
+    2300214: FacadeSets_75
+    2300216: FacadeSets_76
+    2300218: FacadeSets_77
+    2300220: FacadeSets_78
+    2300222: FacadeSets_79
+    2300224: FacadeSets_8
+    2300226: FacadeSets_80
+    2300228: FacadeSets_81
+    2300230: FacadeSets_9
+    2300232: FaitageArdoise
+    2300234: FaitageArdoise_1
+    2300236: FaitageArdoise_2
+    2300238: FaitageArdoise_3
+    2300240: FaitageArdoise_4
+    2300242: FaitageArdoise_5
+    2300244: FaitageArdoise_6
+    2300246: FaitageTuile
+    2300248: FaitageTuile_1
+    2300250: FaitageTuile_2
+    2300252: FaitageTuile_3
+    2300254: FaitageTuile_4
+    2300256: FaitageTuile_5
+    2300258: FaitageTuile_6
+    2300260: FaitageZinc
+    2300262: FaitageZinc_1
+    2300264: FaitageZinc_2
+    2300266: FaitageZinc_3
+    2300268: FaitageZinc_4
+    2300270: FaitageZinc_5
+    2300272: FaitageZinc_6
+    2300274: Paris2010
+    2300276: PrivateYard
+    2300278: PrivateYard_1
+    2300280: PrivateYard_2
+    2300282: RoofMansardArdoise
+    2300284: RoofMansardArdoise_1
+    2300286: RoofMansardTuile
+    2300288: RoofMansardZinc
+    2300290: RoofMansardZinc_1
+    2300292: RoofMansardZinc_2
+    2300294: RoofTerrasse
+    2300296: RoofTerrasse_1
+    2300298: RoofTerrasse_2
+    2300300: RoofTerrasse_3
+    2300302: RoofTerrasse_4
+    2300304: SidewalkTree_MeshPart0
+    2300306: SidewalkTree_MeshPart1
+    2300308: Sol
+    2300310: Sol_1
+    2300312: Sol_2
+    2300314: Sol_3
+    2300316: Sol_4
+    2300318: Sol_5
+    2300320: Sol_6
+    2300322: Sol_7
+    2300324: Sol_8
+    2300326: Sol_9
+    2300328: StreetPart
+    2300330: tree17
+    3300000: Asphalt
+    3300002: BlindFacadeGF
+    3300004: BlindFacadeTextured
+    3300006: BlindFacadeTextured_1
+    3300008: BlindFacadeTextured_2
+    3300010: BlindFacadeTextured_3
+    3300012: ChimneyBase
+    3300014: ChimneyBase_1
+    3300016: ChimneyBase_10
+    3300018: ChimneyBase_11
+    3300020: ChimneyBase_12
+    3300022: ChimneyBase_13
+    3300024: ChimneyBase_14
+    3300026: ChimneyBase_15
+    3300028: ChimneyBase_16
+    3300030: ChimneyBase_17
+    3300032: ChimneyBase_18
+    3300034: ChimneyBase_19
+    3300036: ChimneyBase_2
+    3300038: ChimneyBase_20
+    3300040: ChimneyBase_3
+    3300042: ChimneyBase_4
+    3300044: ChimneyBase_5
+    3300046: ChimneyBase_6
+    3300048: ChimneyBase_7
+    3300050: ChimneyBase_8
+    3300052: ChimneyBase_9
+    3300054: Concrete_MeshPart0
+    3300056: Concrete_MeshPart1
+    3300058: Curbs_MeshPart0
+    3300060: Curbs_MeshPart1
+    3300062: Curbs_MeshPart2
+    3300064: Curbs_MeshPart3
+    3300066: Curbs_MeshPart4
+    3300068: FacadeSets
+    3300070: FacadeSets_1
+    3300072: FacadeSets_10
+    3300074: FacadeSets_11
+    3300076: FacadeSets_12
+    3300078: FacadeSets_13
+    3300080: FacadeSets_14
+    3300082: FacadeSets_15
+    3300084: FacadeSets_16
+    3300086: FacadeSets_17
+    3300088: FacadeSets_18
+    3300090: FacadeSets_19
+    3300092: FacadeSets_2
+    3300094: FacadeSets_20
+    3300096: FacadeSets_21
+    3300098: FacadeSets_22
+    3300100: FacadeSets_23
+    3300102: FacadeSets_24
+    3300104: FacadeSets_25
+    3300106: FacadeSets_26
+    3300108: FacadeSets_27
+    3300110: FacadeSets_28
+    3300112: FacadeSets_29
+    3300114: FacadeSets_3
+    3300116: FacadeSets_30
+    3300118: FacadeSets_31
+    3300120: FacadeSets_32
+    3300122: FacadeSets_33
+    3300124: FacadeSets_34
+    3300126: FacadeSets_35
+    3300128: FacadeSets_36
+    3300130: FacadeSets_37
+    3300132: FacadeSets_38
+    3300134: FacadeSets_39
+    3300136: FacadeSets_4
+    3300138: FacadeSets_40
+    3300140: FacadeSets_41
+    3300142: FacadeSets_42
+    3300144: FacadeSets_43
+    3300146: FacadeSets_44
+    3300148: FacadeSets_45
+    3300150: FacadeSets_46
+    3300152: FacadeSets_47
+    3300154: FacadeSets_48
+    3300156: FacadeSets_49
+    3300158: FacadeSets_5
+    3300160: FacadeSets_50
+    3300162: FacadeSets_51
+    3300164: FacadeSets_52
+    3300166: FacadeSets_53
+    3300168: FacadeSets_54
+    3300170: FacadeSets_55
+    3300172: FacadeSets_56
+    3300174: FacadeSets_57
+    3300176: FacadeSets_58
+    3300178: FacadeSets_59
+    3300180: FacadeSets_6
+    3300182: FacadeSets_60
+    3300184: FacadeSets_61
+    3300186: FacadeSets_62
+    3300188: FacadeSets_63
+    3300190: FacadeSets_64
+    3300192: FacadeSets_65
+    3300194: FacadeSets_66
+    3300196: FacadeSets_67
+    3300198: FacadeSets_68
+    3300200: FacadeSets_69
+    3300202: FacadeSets_7
+    3300204: FacadeSets_70
+    3300206: FacadeSets_71
+    3300208: FacadeSets_72
+    3300210: FacadeSets_73
+    3300212: FacadeSets_74
+    3300214: FacadeSets_75
+    3300216: FacadeSets_76
+    3300218: FacadeSets_77
+    3300220: FacadeSets_78
+    3300222: FacadeSets_79
+    3300224: FacadeSets_8
+    3300226: FacadeSets_80
+    3300228: FacadeSets_81
+    3300230: FacadeSets_9
+    3300232: FaitageArdoise
+    3300234: FaitageArdoise_1
+    3300236: FaitageArdoise_2
+    3300238: FaitageArdoise_3
+    3300240: FaitageArdoise_4
+    3300242: FaitageArdoise_5
+    3300244: FaitageArdoise_6
+    3300246: FaitageTuile
+    3300248: FaitageTuile_1
+    3300250: FaitageTuile_2
+    3300252: FaitageTuile_3
+    3300254: FaitageTuile_4
+    3300256: FaitageTuile_5
+    3300258: FaitageTuile_6
+    3300260: FaitageZinc
+    3300262: FaitageZinc_1
+    3300264: FaitageZinc_2
+    3300266: FaitageZinc_3
+    3300268: FaitageZinc_4
+    3300270: FaitageZinc_5
+    3300272: FaitageZinc_6
+    3300274: Paris2010
+    3300276: PrivateYard
+    3300278: PrivateYard_1
+    3300280: PrivateYard_2
+    3300282: RoofMansardArdoise
+    3300284: RoofMansardArdoise_1
+    3300286: RoofMansardTuile
+    3300288: RoofMansardZinc
+    3300290: RoofMansardZinc_1
+    3300292: RoofMansardZinc_2
+    3300294: RoofTerrasse
+    3300296: RoofTerrasse_1
+    3300298: RoofTerrasse_2
+    3300300: RoofTerrasse_3
+    3300302: RoofTerrasse_4
+    3300304: SidewalkTree_MeshPart0
+    3300306: SidewalkTree_MeshPart1
+    3300308: Sol
+    3300310: Sol_1
+    3300312: Sol_2
+    3300314: Sol_3
+    3300316: Sol_4
+    3300318: Sol_5
+    3300320: Sol_6
+    3300322: Sol_7
+    3300324: Sol_8
+    3300326: Sol_9
+    3300328: StreetPart
+    3300330: tree17
+    4300000: Paris2010
+    4300002: FacadeSets_26
+    4300004: ChimneyBase_9
+    4300006: FacadeSets_13
+    4300008: ChimneyBase_17
+    4300010: RoofMansardArdoise_1
+    4300012: FacadeSets_66
+    4300014: FaitageZinc_4
+    4300016: FacadeSets_63
+    4300018: FacadeSets_69
+    4300020: Sol_2
+    4300022: FacadeSets_36
+    4300024: FacadeSets_1
+    4300026: ChimneyBase_3
+    4300028: Sol_1
+    4300030: FacadeSets_75
+    4300032: ChimneyBase
+    4300034: RoofMansardZinc_2
+    4300036: ChimneyBase_8
+    4300038: FacadeSets_3
+    4300040: ChimneyBase_10
+    4300042: FaitageTuile_4
+    4300044: FacadeSets_76
+    4300046: FacadeSets_27
+    4300048: FacadeSets_12
+    4300050: FacadeSets_48
+    4300052: Sol
+    4300054: ChimneyBase_15
+    4300056: FacadeSets_54
+    4300058: FacadeSets_47
+    4300060: FacadeSets_16
+    4300062: ChimneyBase_2
+    4300064: FaitageTuile_1
+    4300066: FacadeSets_41
+    4300068: BlindFacadeTextured
+    4300070: ChimneyBase_20
+    4300072: FacadeSets_46
+    4300074: FacadeSets_72
+    4300076: FaitageArdoise_6
+    4300078: FaitageZinc_5
+    4300080: ChimneyBase_12
+    4300082: FaitageArdoise_5
+    4300084: FacadeSets_4
+    4300086: FacadeSets
+    4300088: FacadeSets_24
+    4300090: FaitageArdoise_3
+    4300092: FacadeSets_7
+    4300094: RoofMansardZinc_1
+    4300096: ChimneyBase_5
+    4300098: FaitageZinc
+    4300100: FacadeSets_61
+    4300102: FacadeSets_55
+    4300104: FacadeSets_81
+    4300106: FacadeSets_57
+    4300108: PrivateYard
+    4300110: ChimneyBase_18
+    4300112: FacadeSets_25
+    4300114: FacadeSets_30
+    4300116: FacadeSets_79
+    4300118: RoofTerrasse_4
+    4300120: ChimneyBase_7
+    4300122: FacadeSets_6
+    4300124: RoofTerrasse_3
+    4300126: FacadeSets_65
+    4300128: FacadeSets_38
+    4300130: FacadeSets_35
+    4300132: FacadeSets_11
+    4300134: Curbs_MeshPart0
+    4300136: Curbs_MeshPart1
+    4300138: Curbs_MeshPart2
+    4300140: Curbs_MeshPart3
+    4300142: Curbs_MeshPart4
+    4300144: FaitageTuile
+    4300146: FacadeSets_73
+    4300148: SidewalkTree_MeshPart0
+    4300150: SidewalkTree_MeshPart1
+    4300152: FacadeSets_45
+    4300154: FacadeSets_42
+    4300156: PrivateYard_2
+    4300158: StreetPart
+    4300160: FacadeSets_28
+    4300162: FaitageArdoise
+    4300164: Sol_5
+    4300166: RoofMansardArdoise
+    4300168: ChimneyBase_19
+    4300170: FacadeSets_49
+    4300172: RoofMansardTuile
+    4300174: FaitageZinc_2
+    4300176: FacadeSets_2
+    4300178: FacadeSets_29
+    4300180: FaitageZinc_1
+    4300182: FacadeSets_22
+    4300184: Sol_8
+    4300186: FacadeSets_68
+    4300188: FaitageArdoise_4
+    4300190: FaitageZinc_3
+    4300192: FacadeSets_74
+    4300194: FaitageZinc_6
+    4300196: FacadeSets_62
+    4300198: FacadeSets_56
+    4300200: FacadeSets_17
+    4300202: ChimneyBase_6
+    4300204: FacadeSets_53
+    4300206: FacadeSets_64
+    4300208: FacadeSets_71
+    4300210: FacadeSets_50
+    4300212: RoofTerrasse_2
+    4300214: FacadeSets_14
+    4300216: FacadeSets_44
+    4300218: RoofTerrasse
+    4300220: BlindFacadeTextured_3
+    4300222: Sol_4
+    4300224: Sol_6
+    4300226: FacadeSets_15
+    4300228: FacadeSets_52
+    4300230: FacadeSets_19
+    4300232: Asphalt
+    4300234: FacadeSets_18
+    4300236: FacadeSets_32
+    4300238: FaitageTuile_2
+    4300240: ChimneyBase_14
+    4300242: tree17
+    4300244: FacadeSets_34
+    4300246: FacadeSets_33
+    4300248: Sol_3
+    4300250: FacadeSets_80
+    4300252: FaitageArdoise_1
+    4300254: FacadeSets_58
+    4300256: FaitageTuile_6
+    4300258: FacadeSets_9
+    4300260: FacadeSets_43
+    4300262: FacadeSets_51
+    4300264: ChimneyBase_16
+    4300266: RoofTerrasse_1
+    4300268: FacadeSets_23
+    4300270: RoofMansardZinc
+    4300272: BlindFacadeTextured_2
+    4300274: BlindFacadeGF
+    4300276: FacadeSets_31
+    4300278: ChimneyBase_4
+    4300280: FacadeSets_40
+    4300282: ChimneyBase_11
+    4300284: FacadeSets_5
+    4300286: Sol_7
+    4300288: BlindFacadeTextured_1
+    4300290: FacadeSets_20
+    4300292: FacadeSets_59
+    4300294: ChimneyBase_1
+    4300296: PrivateYard_1
+    4300298: FaitageTuile_3
+    4300300: FacadeSets_10
+    4300302: FaitageArdoise_2
+    4300304: FacadeSets_21
+    4300306: Concrete_MeshPart0
+    4300308: Concrete_MeshPart1
+    4300310: FacadeSets_78
+    4300312: FacadeSets_8
+    4300314: FacadeSets_37
+    4300316: FaitageTuile_5
+    4300318: FacadeSets_60
+    4300320: Sol_9
+    4300322: FacadeSets_39
+    4300324: FacadeSets_70
+    4300326: FacadeSets_67
+    4300328: FacadeSets_77
+    4300330: ChimneyBase_13
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asphalt
+    second: {fileID: 2100000, guid: 76ea8c308cb57d649a8f019200382b47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlindFacadeGF
+    second: {fileID: 2100000, guid: de17f0eb83d9de74193a63841007522a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlindFacadeTextured
+    second: {fileID: 2100000, guid: 73c919446f5f0d24980c08827bbda596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlindFacadeTextured_1
+    second: {fileID: 2100000, guid: 700af819f3a91634b81e5028f98ba47c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlindFacadeTextured_2
+    second: {fileID: 2100000, guid: 8634062cd93d9894c8c1ecbf821861ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlindFacadeTextured_3
+    second: {fileID: 2100000, guid: 31a54d857cd2d894caa9e58da5d3caa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase
+    second: {fileID: 2100000, guid: 7f8295605781edf4c9fc3d2d17650009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_1
+    second: {fileID: 2100000, guid: 8b333747268056d45b53dbbabd15b96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_10
+    second: {fileID: 2100000, guid: 93c80f553159e134f8500ce04d37a67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_11
+    second: {fileID: 2100000, guid: 8b333747268056d45b53dbbabd15b96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_12
+    second: {fileID: 2100000, guid: 93c80f553159e134f8500ce04d37a67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_13
+    second: {fileID: 2100000, guid: 7f8295605781edf4c9fc3d2d17650009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_14
+    second: {fileID: 2100000, guid: 93c80f553159e134f8500ce04d37a67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_15
+    second: {fileID: 2100000, guid: 8b333747268056d45b53dbbabd15b96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_16
+    second: {fileID: 2100000, guid: 93c80f553159e134f8500ce04d37a67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_17
+    second: {fileID: 2100000, guid: 93c80f553159e134f8500ce04d37a67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_18
+    second: {fileID: 2100000, guid: 8b333747268056d45b53dbbabd15b96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_19
+    second: {fileID: 2100000, guid: 7f8295605781edf4c9fc3d2d17650009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_2
+    second: {fileID: 2100000, guid: 7f8295605781edf4c9fc3d2d17650009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_20
+    second: {fileID: 2100000, guid: 7f8295605781edf4c9fc3d2d17650009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_3
+    second: {fileID: 2100000, guid: 93c80f553159e134f8500ce04d37a67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_4
+    second: {fileID: 2100000, guid: 93c80f553159e134f8500ce04d37a67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_5
+    second: {fileID: 2100000, guid: 7f8295605781edf4c9fc3d2d17650009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_6
+    second: {fileID: 2100000, guid: 8b333747268056d45b53dbbabd15b96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_7
+    second: {fileID: 2100000, guid: 8b333747268056d45b53dbbabd15b96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_8
+    second: {fileID: 2100000, guid: 8b333747268056d45b53dbbabd15b96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChimneyBase_9
+    second: {fileID: 2100000, guid: 7f8295605781edf4c9fc3d2d17650009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concrete
+    second: {fileID: 2100000, guid: 4839b3fdca056ff4ca1631bc113ddfc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Curbs
+    second: {fileID: 2100000, guid: 145dab907d331de4880ba81ae5702a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets
+    second: {fileID: 2100000, guid: ae3d9797520e5bd42ad26659aaec4ed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_1
+    second: {fileID: 2100000, guid: d0f018cd70d734a4699857d191edcf9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_10
+    second: {fileID: 2100000, guid: 9dd6a514525c71148b06050879cf4d2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_11
+    second: {fileID: 2100000, guid: e6a3f8ec6a298c14a9e039d23b926cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_12
+    second: {fileID: 2100000, guid: cdd5fde851118d34fbb9b2edf378e470, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_13
+    second: {fileID: 2100000, guid: 3d864e819485bfa4fa9240d163594d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_14
+    second: {fileID: 2100000, guid: 4e1b92c71bae52c45a7ea0044fb4a644, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_15
+    second: {fileID: 2100000, guid: 59899b86e21ce294b8651c31f2a96d8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_16
+    second: {fileID: 2100000, guid: 1386e7028546129498737ab730cc0383, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_17
+    second: {fileID: 2100000, guid: 7ef5dfbfd495a7348a0fa4607ca97bcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_18
+    second: {fileID: 2100000, guid: 8feb45c99c2a9ad40a0c4b477abd8220, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_19
+    second: {fileID: 2100000, guid: 6d16ba6cb25639a4786fffd1d1cbff84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_2
+    second: {fileID: 2100000, guid: 0e0cbae64a6d56f4e98dc829af5fc3da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_20
+    second: {fileID: 2100000, guid: 6a8b2667d9d80da449a7651e6f753e66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_21
+    second: {fileID: 2100000, guid: d59b130831fb234449beaa314426dea6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_22
+    second: {fileID: 2100000, guid: ee5e4950f341113478e4b2ba35f7a57c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_23
+    second: {fileID: 2100000, guid: b5ad0aece0257de498b3563239a510f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_24
+    second: {fileID: 2100000, guid: d6f35ce9a9cd63d4cbd24d18dbc12a26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_25
+    second: {fileID: 2100000, guid: 3506dca14dedc414d9e178edfba51b12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_26
+    second: {fileID: 2100000, guid: e25b26e6c9b3e7f4f8ee32c74eea967b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_27
+    second: {fileID: 2100000, guid: 1e8553bfba0b4ba41ae3986c2ddf5a08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_28
+    second: {fileID: 2100000, guid: eff9d2b72eac848498a50c7a605fe7e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_29
+    second: {fileID: 2100000, guid: f258a1d872197c342a9c7907bd20f4a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_3
+    second: {fileID: 2100000, guid: 62a511917eab86c4092f5a89ff379f8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_30
+    second: {fileID: 2100000, guid: 1355f8fb38f9c0a47b0f69c0b81aa7f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_31
+    second: {fileID: 2100000, guid: 6d3826570addf8b488a25e20ca07faca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_32
+    second: {fileID: 2100000, guid: bc93c507e8d8bac4a95bda60d9191b46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_33
+    second: {fileID: 2100000, guid: 8342478011ee8eb4190c1b5038fb40fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_34
+    second: {fileID: 2100000, guid: 37c6432eb7e56454082d716ffcee6de3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_35
+    second: {fileID: 2100000, guid: b57bc8b6598ecfa4b8d827da3db8e012, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_36
+    second: {fileID: 2100000, guid: 3d96ba2711ee142479ddea85332e4539, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_37
+    second: {fileID: 2100000, guid: 42c47b4a2f82af04f941c7166fcf7c51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_38
+    second: {fileID: 2100000, guid: 2891ec020fdc4d64c97f4836a5911dc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_39
+    second: {fileID: 2100000, guid: d1b7c4eb4f0345b4c92552af54afa36b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_4
+    second: {fileID: 2100000, guid: bce73f348394495419d83fa3aae3f837, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_40
+    second: {fileID: 2100000, guid: 0dd33adc5689c30479e4fdec44d3ac67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_41
+    second: {fileID: 2100000, guid: ae9f69592501b244daa8fe4d70048faa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_42
+    second: {fileID: 2100000, guid: 3cd63554ca0b4fb449daade89b648ddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_43
+    second: {fileID: 2100000, guid: ad26affa31d58f2418072f92950342da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_44
+    second: {fileID: 2100000, guid: 9d2e8edd7f8e6eb47b89334cc3945022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_45
+    second: {fileID: 2100000, guid: 85e2963d20e653d42adde8bc1a1eee39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_46
+    second: {fileID: 2100000, guid: eb2bc3884641c444b99ee49e3ac14e9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_47
+    second: {fileID: 2100000, guid: a8e6b018dacb98548934979a88de5daa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_48
+    second: {fileID: 2100000, guid: abdf6d4c397365c40b60f8ee12541485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_49
+    second: {fileID: 2100000, guid: ccfe74f83ae63fb49b35d47f2084f1bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_5
+    second: {fileID: 2100000, guid: cd95ad39c84a7c54c989720b026dad05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_50
+    second: {fileID: 2100000, guid: 7458d73373790a940be3961bae13156a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_51
+    second: {fileID: 2100000, guid: 07e3bd59af37c03458b5c245bad01dbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_52
+    second: {fileID: 2100000, guid: a717ae363e2f2e14d83cb61b222ca640, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_53
+    second: {fileID: 2100000, guid: c78add5f887736648afc9b8b0e4a9b24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_54
+    second: {fileID: 2100000, guid: 0cbed5bfb2a9e9748a90dd898608220a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_55
+    second: {fileID: 2100000, guid: a550456c500cec745be7902b09ccd57a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_56
+    second: {fileID: 2100000, guid: 7325b05199880ce4b84c35bc9ed719a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_57
+    second: {fileID: 2100000, guid: 1d51877081ab9cc4b89661ca11bde18a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_58
+    second: {fileID: 2100000, guid: 0d56d3b91b4c1b0429facf2ca3dd3c7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_59
+    second: {fileID: 2100000, guid: 3552b9c51e21f584fa31944387027b32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_6
+    second: {fileID: 2100000, guid: c64185f634ba746478f948a4c293a199, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_60
+    second: {fileID: 2100000, guid: 3a6f3216eaa91ec46b9a22b06bf40f17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_61
+    second: {fileID: 2100000, guid: 87915ad8ecef4014cb1faa4c8d8b6089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_62
+    second: {fileID: 2100000, guid: 05e8720881ad15c46863c463fc0f6fc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_63
+    second: {fileID: 2100000, guid: 2b5b4f564bbc5f249a934e74b4749faf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_64
+    second: {fileID: 2100000, guid: 0734da1d8e9bc7d4991dcdbbdd3ee1e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_65
+    second: {fileID: 2100000, guid: 79533d4b3806a434db9b0ca99be3b99c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_66
+    second: {fileID: 2100000, guid: 5de9d9a3d02cf9c45a7fa1aa5501c1aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_67
+    second: {fileID: 2100000, guid: b1f994e0a2bb4d244b8cc538d2837550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_68
+    second: {fileID: 2100000, guid: 4d7f1e2b764229a47a304842b1f1ceb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_69
+    second: {fileID: 2100000, guid: 5b76e789007c94947b15865bd9c2a453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_7
+    second: {fileID: 2100000, guid: 35383fa19f6271b4287479e4fae7c606, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_70
+    second: {fileID: 2100000, guid: da5ec706d1ec48b48a42e7d820ba730d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_71
+    second: {fileID: 2100000, guid: 1e640b0e6ff553d479c4b9c282fab577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_72
+    second: {fileID: 2100000, guid: f003d2ba76e8fb948b4638b116d2c055, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_73
+    second: {fileID: 2100000, guid: a20ad60c7705cd3438924f5ee7d6c56c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_74
+    second: {fileID: 2100000, guid: cbb84e22a80b1f348aa4c8025cef7555, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_75
+    second: {fileID: 2100000, guid: ceaf2f1c7d7388b42966d08ed71f9dc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_76
+    second: {fileID: 2100000, guid: fccd9e6bcb217a341b1292fb4b751733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_77
+    second: {fileID: 2100000, guid: 695f5cd9e16b9d841adb72d67991ba67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_78
+    second: {fileID: 2100000, guid: affc8fd40c98f574486c9d7410aa29c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_79
+    second: {fileID: 2100000, guid: 8feca523b69f928419193a80950bf098, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_8
+    second: {fileID: 2100000, guid: 448fef1ec70d2e844a51eabac5a93567, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_80
+    second: {fileID: 2100000, guid: e9431bc6e47d94843a9220d0ebf0b136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_81
+    second: {fileID: 2100000, guid: c58f1c224fee69d47931b635e3b79a8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FacadeSets_9
+    second: {fileID: 2100000, guid: d50f7eb59a9bbc343b29434b2c265e70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageArdoise
+    second: {fileID: 2100000, guid: 61bca50f7cfb5c346bf56b24fc40d536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageArdoise_1
+    second: {fileID: 2100000, guid: 61bca50f7cfb5c346bf56b24fc40d536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageArdoise_2
+    second: {fileID: 2100000, guid: 61bca50f7cfb5c346bf56b24fc40d536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageArdoise_3
+    second: {fileID: 2100000, guid: 61bca50f7cfb5c346bf56b24fc40d536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageArdoise_4
+    second: {fileID: 2100000, guid: 61bca50f7cfb5c346bf56b24fc40d536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageArdoise_5
+    second: {fileID: 2100000, guid: 61bca50f7cfb5c346bf56b24fc40d536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageArdoise_6
+    second: {fileID: 2100000, guid: 61bca50f7cfb5c346bf56b24fc40d536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageTuile
+    second: {fileID: 2100000, guid: 0ef56f008a5622642a448ad34f0a7879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageTuile_1
+    second: {fileID: 2100000, guid: 0ef56f008a5622642a448ad34f0a7879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageTuile_2
+    second: {fileID: 2100000, guid: 0ef56f008a5622642a448ad34f0a7879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageTuile_3
+    second: {fileID: 2100000, guid: 0ef56f008a5622642a448ad34f0a7879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageTuile_4
+    second: {fileID: 2100000, guid: 0ef56f008a5622642a448ad34f0a7879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageTuile_5
+    second: {fileID: 2100000, guid: 0ef56f008a5622642a448ad34f0a7879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageTuile_6
+    second: {fileID: 2100000, guid: 0ef56f008a5622642a448ad34f0a7879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageZinc
+    second: {fileID: 2100000, guid: 831a077c3e38dd9478da6f2685110003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageZinc_1
+    second: {fileID: 2100000, guid: 831a077c3e38dd9478da6f2685110003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageZinc_2
+    second: {fileID: 2100000, guid: 831a077c3e38dd9478da6f2685110003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageZinc_3
+    second: {fileID: 2100000, guid: 831a077c3e38dd9478da6f2685110003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageZinc_4
+    second: {fileID: 2100000, guid: 831a077c3e38dd9478da6f2685110003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageZinc_5
+    second: {fileID: 2100000, guid: 831a077c3e38dd9478da6f2685110003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FaitageZinc_6
+    second: {fileID: 2100000, guid: 831a077c3e38dd9478da6f2685110003, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PrivateYard
+    second: {fileID: 2100000, guid: 7f8295605781edf4c9fc3d2d17650009, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PrivateYard_1
+    second: {fileID: 2100000, guid: 93c80f553159e134f8500ce04d37a67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PrivateYard_2
+    second: {fileID: 2100000, guid: 8b333747268056d45b53dbbabd15b96a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMansardArdoise
+    second: {fileID: 2100000, guid: 1769375a1ec3b1f468734140fefb33c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMansardArdoise_1
+    second: {fileID: 2100000, guid: 95f722a12bcd4ce41869cb1078f4f3af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMansardTuile
+    second: {fileID: 2100000, guid: 6213d9aadad3871429637fd7823f4085, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMansardZinc
+    second: {fileID: 2100000, guid: fb89412286fa428499412d01b01b1026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMansardZinc_1
+    second: {fileID: 2100000, guid: 88f85a41deea9944ba1d5c0d237d7df4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofMansardZinc_2
+    second: {fileID: 2100000, guid: b80d383d52be8f445a5089be9137af0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTerrasse
+    second: {fileID: 2100000, guid: c1469e66184cbbb43855ab6ce93e365c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTerrasse_1
+    second: {fileID: 2100000, guid: 3cd9269ce77707a46ad662471d917f63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTerrasse_2
+    second: {fileID: 2100000, guid: 4795bfd4df1cc74449f11f3afd3b1f59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTerrasse_3
+    second: {fileID: 2100000, guid: 89bca9edb2ddbc641a76a26784680596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RoofTerrasse_4
+    second: {fileID: 2100000, guid: 371a137059fa7a04c91d42a28386b9e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SidewalkTree
+    second: {fileID: 2100000, guid: 70af98ad4d8ee1b4dbca53bdc4546295, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol
+    second: {fileID: 2100000, guid: bb43b15009e6a914a8910556d8b33888, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_1
+    second: {fileID: 2100000, guid: f88834848173b764196e8c83edb9bd35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_2
+    second: {fileID: 2100000, guid: 15110c6555b4ef04e89e171d0eb01a7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_3
+    second: {fileID: 2100000, guid: 5a91c91b43c58a24fb9b161899a8e791, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_4
+    second: {fileID: 2100000, guid: 36e7c7ff3d3392541b731b990bb0d3d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_5
+    second: {fileID: 2100000, guid: 5acdc8372b552f8428a7a4fa751726da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_6
+    second: {fileID: 2100000, guid: 93e646ada70c82e48a97cca22a12c6dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_7
+    second: {fileID: 2100000, guid: 77a61b2954b6e4a4bbaba09d0676d06f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_8
+    second: {fileID: 2100000, guid: a4b1e64bb4a1ebf48b30e1bf4513bb0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sol_9
+    second: {fileID: 2100000, guid: bed29432dfd351f468c9b2996d32d3c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StreetPart
+    second: {fileID: 2100000, guid: 2139c2adcc0da434f9402468e6a09a17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tree17
+    second: {fileID: 2100000, guid: 8e7d8f0882c02d34ababc83e59f021da, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

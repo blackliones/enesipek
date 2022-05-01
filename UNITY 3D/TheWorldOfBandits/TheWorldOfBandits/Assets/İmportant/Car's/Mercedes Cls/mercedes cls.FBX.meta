@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: f8fd3ae279a713149bdd7c494840efd1
+timeCreated: 1482072252
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bonnet_ok
+    100002: boot_ok
+    100004: bump_front_ok
+    100006: bump_rear_ok
+    100008: chassis
+    100010: door_lf_ok
+    100012: door_lr_ok
+    100014: door_rf_ok
+    100016: door_rr_ok
+    100018: dvorleft
+    100020: dvorright
+    100022: engine
+    100024: fars
+    100026: headlights_glass_left
+    100028: hub_lb
+    100030: hub_lf
+    100032: hub_rb
+    100034: hub_rf
+    100036: interior
+    100038: //RootNode
+    100040: steering_ok
+    100042: trail_lights_glass_left
+    100044: trail_lights_glass_right
+    100046: trail_lights_glass_right 1
+    100048: traillights
+    100050: wheel
+    100052: wheel01
+    100054: wheel02
+    100056: wheel03
+    100058: winds
+    100060: windscreen_ok
+    400000: bonnet_ok
+    400002: boot_ok
+    400004: bump_front_ok
+    400006: bump_rear_ok
+    400008: chassis
+    400010: door_lf_ok
+    400012: door_lr_ok
+    400014: door_rf_ok
+    400016: door_rr_ok
+    400018: dvorleft
+    400020: dvorright
+    400022: engine
+    400024: fars
+    400026: headlights_glass_left
+    400028: hub_lb
+    400030: hub_lf
+    400032: hub_rb
+    400034: hub_rf
+    400036: interior
+    400038: //RootNode
+    400040: steering_ok
+    400042: trail_lights_glass_left
+    400044: trail_lights_glass_right
+    400046: trail_lights_glass_right 1
+    400048: traillights
+    400050: wheel
+    400052: wheel01
+    400054: wheel02
+    400056: wheel03
+    400058: winds
+    400060: windscreen_ok
+    2300000: bonnet_ok
+    2300002: boot_ok
+    2300004: bump_front_ok
+    2300006: bump_rear_ok
+    2300008: chassis
+    2300010: door_lf_ok
+    2300012: door_lr_ok
+    2300014: door_rf_ok
+    2300016: door_rr_ok
+    2300018: dvorleft
+    2300020: dvorright
+    2300022: engine
+    2300024: fars
+    2300026: headlights_glass_left
+    2300028: hub_lb
+    2300030: hub_lf
+    2300032: hub_rb
+    2300034: hub_rf
+    2300036: interior
+    2300038: steering_ok
+    2300040: trail_lights_glass_left
+    2300042: trail_lights_glass_right
+    2300044: trail_lights_glass_right 1
+    2300046: traillights
+    2300048: wheel
+    2300050: wheel01
+    2300052: wheel02
+    2300054: wheel03
+    2300056: winds
+    2300058: windscreen_ok
+    3300000: bonnet_ok
+    3300002: boot_ok
+    3300004: bump_front_ok
+    3300006: bump_rear_ok
+    3300008: chassis
+    3300010: door_lf_ok
+    3300012: door_lr_ok
+    3300014: door_rf_ok
+    3300016: door_rr_ok
+    3300018: dvorleft
+    3300020: dvorright
+    3300022: engine
+    3300024: fars
+    3300026: headlights_glass_left
+    3300028: hub_lb
+    3300030: hub_lf
+    3300032: hub_rb
+    3300034: hub_rf
+    3300036: interior
+    3300038: steering_ok
+    3300040: trail_lights_glass_left
+    3300042: trail_lights_glass_right
+    3300044: trail_lights_glass_right 1
+    3300046: traillights
+    3300048: wheel
+    3300050: wheel01
+    3300052: wheel02
+    3300054: wheel03
+    3300056: winds
+    3300058: windscreen_ok
+    4300000: wheel
+    4300002: chassis
+    4300004: interior
+    4300006: fars
+    4300008: trail_lights_glass_right
+    4300010: winds
+    4300012: engine
+    4300014: boot_ok
+    4300016: bonnet_ok
+    4300018: door_lf_ok
+    4300020: door_rf_ok
+    4300022: door_rr_ok
+    4300024: door_lr_ok
+    4300026: bump_rear_ok
+    4300028: bump_front_ok
+    4300030: windscreen_ok
+    4300032: steering_ok
+    4300034: dvorright
+    4300036: dvorleft
+    4300038: hub_rf
+    4300040: hub_rb
+    4300042: hub_lf
+    4300044: hub_lb
+    4300046: wheel01
+    4300048: wheel02
+    4300050: wheel03
+    4300052: trail_lights_glass_left
+    4300054: trail_lights_glass_right
+    4300056: headlights_glass_left
+    4300058: traillights
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

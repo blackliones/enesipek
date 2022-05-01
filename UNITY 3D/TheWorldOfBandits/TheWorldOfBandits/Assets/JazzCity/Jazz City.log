@@ -1,0 +1,313 @@
+Export time: 2017/09/24 01:28:05 EEST
+Export duration: 98.728s
+
+Export settings:
+	Export Geometry: Models with Shape Fallback
+	Output Path: C:\Users\Bilal\Desktop\Codes\CityEngine\Wizard_Cities\models
+	Simplify Terrain Meshes: true
+	Terrain Layers: Export all selected terrain layers
+	applicationName: CityEngine
+	applicationString: CityEngine 2016.0.2642 0601R
+	applicationVendor: Esri R&D Center Zurich Inc.
+	applicationVersion: 2016.0.2642 06011906
+	atlasAddWrapBorder: true
+	author: Bilal
+	baseName: Jazz City
+	collectTextures: true
+	createTextureAtlases: false
+	encoderID: com.esri.prt.codecs.OBJEncoder
+	encoderName: Wavefront OBJ
+	errorFallback: true
+	existingFiles: OVERWRITE
+	facesWithHoles: TRIANGULATE_FACES_WITH_HOLES
+	fileGranularity: MEMORY_BUDGET
+	globalOffset: [ 0.0, 0.0, 0.0 ]
+	includeMaterials: true
+	localOffset: NONE
+	maxAtlasDim: 11
+	memoryBudget: 500
+	mergeNormals: true
+	mergeTexcoords: true
+	mergeVertices: true
+	meshGranularity: PER_MATERIAL
+	normalPrecision: 0.001
+	sceneFile: /Wizard_Cities/scenes/International City.cej
+	script: 
+	shapeNameDelimiter: _
+	texcoordPrecision: 1.0E-4
+	textureCoordinates: FIRST
+	triangulateMeshes: false
+	vertexNormals: PASS
+	vertexPrecision: 0.001
+	writeLog: true
+
+Initial shapes:
+	 0 :   OK                'Shape'             OID '243e6afa-4cb9-11b2-8458-003f4945225b:0'
+	 1 :   OK                'Shape'             OID '243e6afa-4cb9-11b2-8458-003f4945225b:1'
+	 2 :   OK                'Shape'             OID '243e6afa-4cb9-11b2-8458-003f4945225b:2'
+	 3 :   OK                'Shape'             OID '244925be-4cb9-11b2-8458-003f4945225b:0'
+	 4 :   OK                'Shape'             OID '244925be-4cb9-11b2-8458-003f4945225b:1'
+	 5 :   OK                'Shape'             OID '244925be-4cb9-11b2-8458-003f4945225b:2'
+	 6 :   OK                'Shape'             OID '2449798c-4cb9-11b2-8458-003f4945225b:0'
+	 7 :   OK                'Shape'             OID '2449798c-4cb9-11b2-8458-003f4945225b:1'
+	 8 :   OK                'Shape'             OID '2449798c-4cb9-11b2-8458-003f4945225b:2'
+	 9 :   OK                'Shape'             OID '2482fb80-4cb9-11b2-8458-003f4945225b:0'
+	10 :   OK                'Shape'             OID '2482fb80-4cb9-11b2-8458-003f4945225b:1'
+	11 :   OK                'Shape'             OID '2482fb80-4cb9-11b2-8458-003f4945225b:2'
+	12 :   OK                'Shape'             OID '2483468d-4cb9-11b2-8458-003f4945225b:0'
+	13 :   OK                'Shape'             OID '2483468d-4cb9-11b2-8458-003f4945225b:1'
+	14 :   OK                'Shape'             OID '2483468d-4cb9-11b2-8458-003f4945225b:2'
+	15 :   OK                'Shape'             OID '2b367bcd-4cb9-11b2-8458-003f4945225b:0'
+	16 :   OK                'Shape'             OID '2b367bcd-4cb9-11b2-8458-003f4945225b:1'
+	17 :   OK                'Shape'             OID '2b367bcd-4cb9-11b2-8458-003f4945225b:2'
+	18 :   OK                'Shape'             OID '2b367bcd-4cb9-11b2-8458-003f4945225b:3'
+	19 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:7'
+	20 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:c'
+	21 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:1e'
+	22 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:1f'
+	23 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:20'
+	24 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:21'
+	25 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:26'
+	26 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:27'
+	27 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:30'
+	28 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:31'
+	29 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:3b'
+	30 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:3c'
+	31 :   OK                'Shape'             OID 'baad0023-4cb9-11b2-8458-003f4945225b:3e'
+
+
+
+Files created:
+	'Jazz City_0.obj':
+		Initial shapes:
+			0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 16, 19, 18, 21, 20, 23, 22, 25, 24, 27, 26, 29, 28, 31, 30, 
+		GEOMETRY:
+			Total Meshes: 110
+			Total Polygons: 2147
+			    | Name                       | Material              | Polygons 
+			====+============================+=======================+==========
+			  1  'mesh_CityEngineMaterial'    'CityEngineMaterial_64'         1 
+			  2  'mesh_CityEngineMaterial_1'  'CityEngineMaterial_22'         4 
+			  3  'mesh_CityEngineMaterial_2'  'CityEngineMaterial_42'         2 
+			  4  'mesh_CityEngineMaterial_3'  'CityEngineMaterial_92'         1 
+			  5  'mesh_CityEngineMaterial_4'  'CityEngineMaterial_3'          1 
+			  6  'mesh_CityEngineMaterial_5'  'CityEngineMaterial_91'         1 
+			  7  'mesh_CityEngineMaterial_6'  'CityEngineMaterial_78'         2 
+			  8  'mesh_CityEngineMaterial_7'  'CityEngineMaterial_6'          2 
+			  9  'mesh_CityEngineMaterial_8'  'CityEngineMaterial_20'         2 
+			 10  'mesh_CityEngineMaterial_9'  'CityEngineMaterial_70'         1 
+			 11  'mesh_CityEngineMaterial_10' 'CityEngineMaterial_43'         4 
+			 12  'mesh_CityEngineMaterial_11' 'CityEngineMaterial_4'          2 
+			 13  'mesh_CityEngineMaterial_12' 'CityEngineMaterial_55'         2 
+			 14  'mesh_CityEngineMaterial_13' 'CityEngineMaterial_23'         2 
+			 15  'mesh_CityEngineMaterial_14' 'CityEngineMaterial_79'         2 
+			 16  'mesh_CityEngineMaterial_15' 'CityEngineMaterial_96'         2 
+			 17  'mesh_CityEngineMaterial_16' 'CityEngineMaterial_21'         5 
+			 18  'mesh_CityEngineMaterial_17' 'CityEngineMaterial_97'         1 
+			 19  'mesh_CityEngineMaterial_18' 'CityEngineMaterial_5'         10 
+			 20  'mesh_CityEngineMaterial_19' 'CityEngineMaterial_44'         1 
+			 21  'mesh_CityEngineMaterial_20' 'CityEngineMaterial_28'         1 
+			 22  'mesh_CreateFan'             'CreateFan_10'                 56 
+			 23  'mesh_CityEngineMaterial_21' 'CityEngineMaterial_87'        18 
+			 24  'mesh_CityEngineMaterial_22' 'CityEngineMaterial_68'        16 
+			 25  'mesh_CityEngineMaterial_23' 'CityEngineMaterial_39'        44 
+			 26  'mesh_CityEngineMaterial_24' 'CityEngineMaterial_93'         1 
+			 27  'mesh_CityEngineMaterial_25' 'CityEngineMaterial_8'          2 
+			 28  'mesh_CityEngineMaterial_26' 'CityEngineMaterial_57'         1 
+			 29  'mesh_CityEngineMaterial_27' 'CityEngineMaterial_76'        21 
+			 30  'mesh_CityEngineMaterial_28' 'CityEngineMaterial_45'        54 
+			 31  'mesh_CreateFan_1'           'CreateFan_7'                  40 
+			 32  'mesh_CityEngineMaterial_29' 'CityEngineMaterial_52'         1 
+			 33  'mesh_CityEngineMaterial_30' 'CityEngineMaterial_29'        30 
+			 34  'mesh_CityEngineMaterial_31' 'CityEngineMaterial_85'         1 
+			 35  'mesh_CityEngineMaterial_32' 'CityEngineMaterial_46'         8 
+			 36  'mesh_CityEngineMaterial_33' 'CityEngineMaterial_2'         34 
+			 37  'mesh_CityEngineMaterial_34' 'CityEngineMaterial_10'        40 
+			 38  'mesh_CityEngineMaterial_35' 'CityEngineMaterial_53'         1 
+			 39  'mesh_CreateFan_2'           'CreateFan_3'                  64 
+			 40  'mesh_CreateFan_3'           'CreateFan_2'                  64 
+			 41  'mesh_CityEngineMaterial_36' 'CityEngineMaterial_59'         1 
+			 42  'mesh_CreateFan_4'           'CreateFan_9'                  72 
+			 43  'mesh_CityEngineMaterial_37' 'CityEngineMaterial_27'        23 
+			 44  'mesh_CityEngineMaterial_38' 'CityEngineMaterial_26'        18 
+			 45  'mesh_CityEngineMaterial_39' 'CityEngineMaterial_86'        40 
+			 46  'mesh_CreateFan_5'           'CreateFan_6'                  88 
+			 47  'mesh_CityEngineMaterial_40' 'CityEngineMaterial_81'         4 
+			 48  'mesh_CityEngineMaterial_41' 'CityEngineMaterial_49'         1 
+			 49  'mesh_CityEngineMaterial_42' 'CityEngineMaterial_11'        36 
+			 50  'mesh_CityEngineMaterial_43' 'CityEngineMaterial_95'        22 
+			 51  'mesh_CityEngineMaterial_44' 'CityEngineMaterial_16'         4 
+			 52  'mesh_CreateFan_6'           'CreateFan_1'                  88 
+			 53  'mesh_CityEngineMaterial_45' 'CityEngineMaterial_9'         80 
+			 54  'mesh_CityEngineMaterial_46' 'CityEngineMaterial_94'         4 
+			 55  'mesh_CreateFan_7'           'CreateFan'                    96 
+			 56  'mesh_CityEngineMaterial_47' 'CityEngineMaterial_24'         1 
+			 57  'mesh_CityEngineMaterial_48' 'CityEngineMaterial_80'         8 
+			 58  'mesh_CityEngineMaterial_49' 'CityEngineMaterial_18'         8 
+			 59  'mesh_CityEngineMaterial_50' 'CityEngineMaterial_83'         1 
+			 60  'mesh_CityEngineMaterial_51' 'CityEngineMaterial_1'        189 
+			 61  'mesh_CreateFan_8'           'CreateFan_5'                  48 
+			 62  'mesh_CityEngineMaterial_52' 'CityEngineMaterial_77'        12 
+			 63  'mesh_CityEngineMaterial_53' 'CityEngineMaterial_41'         8 
+			 64  'mesh_CityEngineMaterial_54' 'CityEngineMaterial_74'         8 
+			 65  'mesh_CityEngineMaterial_55' 'CityEngineMaterial_82'         8 
+			 66  'mesh_CityEngineMaterial_56' 'CityEngineMaterial_32'        10 
+			 67  'mesh_CityEngineMaterial_57' 'CityEngineMaterial_63'        28 
+			 68  'mesh_CityEngineMaterial_58' 'CityEngineMaterial_67'        18 
+			 69  'mesh_CreateFan_9'           'CreateFan_4'                  56 
+			 70  'mesh_CityEngineMaterial_59' 'CityEngineMaterial_13'        38 
+			 71  'mesh_CityEngineMaterial_60' 'CityEngineMaterial_34'         1 
+			 72  'mesh_CityEngineMaterial_61' 'CityEngineMaterial_60'         4 
+			 73  'mesh_CityEngineMaterial_62' 'CityEngineMaterial_71'         1 
+			 74  'mesh_CityEngineMaterial_63' 'CityEngineMaterial_15'         8 
+			 75  'mesh_CityEngineMaterial_64' 'CityEngineMaterial_14'         1 
+			 76  'mesh_CityEngineMaterial_65' 'CityEngineMaterial_90'         8 
+			 77  'mesh_CityEngineMaterial_66' 'CityEngineMaterial_47'         8 
+			 78  'mesh_CityEngineMaterial_67' 'CityEngineMaterial_66'         8 
+			 79  'mesh_CityEngineMaterial_68' 'CityEngineMaterial_69'         4 
+			 80  'mesh_CityEngineMaterial_69' 'CityEngineMaterial_75'        10 
+			 81  'mesh_CityEngineMaterial_70' 'CityEngineMaterial_12'         1 
+			 82  'mesh_CityEngineMaterial_71' 'CityEngineMaterial_84'         1 
+			 83  'mesh_CityEngineMaterial_72' 'CityEngineMaterial_48'         1 
+			 84  'mesh_CityEngineMaterial_73' 'CityEngineMaterial_65'         8 
+			 85  'mesh_CreateFan_10'          'CreateFan_8'                  72 
+			 86  'mesh_CityEngineMaterial_74' 'CityEngineMaterial_73'         1 
+			 87  'mesh_CityEngineMaterial_75' 'CityEngineMaterial_25'         1 
+			 88  'mesh_CityEngineMaterial_76' 'CityEngineMaterial_37'         5 
+			 89  'mesh_CityEngineMaterial_77' 'CityEngineMaterial_51'        28 
+			 90  'mesh_CityEngineMaterial_78' 'CityEngineMaterial'            7 
+			 91  'mesh_CityEngineMaterial_79' 'CityEngineMaterial_30'         1 
+			 92  'mesh_CityEngineMaterial_80' 'CityEngineMaterial_56'         1 
+			 93  'mesh_CityEngineMaterial_81' 'CityEngineMaterial_50'         8 
+			 94  'mesh_CityEngineMaterial_82' 'CityEngineMaterial_58'        12 
+			 95  'mesh_CityEngineMaterial_83' 'CityEngineMaterial_33'        53 
+			 96  'mesh_CityEngineMaterial_84' 'CityEngineMaterial_38'        32 
+			 97  'mesh_CityEngineMaterial_85' 'CityEngineMaterial_62'        20 
+			 98  'mesh_CreateFan_11'          'CreateFan_11'                 48 
+			 99  'mesh_CityEngineMaterial_86' 'CityEngineMaterial_35'        60 
+			100  'mesh_CityEngineMaterial_87' 'CityEngineMaterial_7'         24 
+			101  'mesh_CityEngineMaterial_88' 'CityEngineMaterial_31'        16 
+			102  'mesh_CityEngineMaterial_89' 'CityEngineMaterial_89'         8 
+			103  'mesh_CityEngineMaterial_90' 'CityEngineMaterial_72'        16 
+			104  'mesh_CityEngineMaterial_91' 'CityEngineMaterial_17'        54 
+			105  'mesh_CityEngineMaterial_92' 'CityEngineMaterial_36'         9 
+			106  'mesh_CityEngineMaterial_93' 'CityEngineMaterial_54'        12 
+			107  'mesh_CityEngineMaterial_94' 'CityEngineMaterial_19'         8 
+			108  'mesh_CityEngineMaterial_95' 'CityEngineMaterial_88'        12 
+			109  'mesh_CityEngineMaterial_96' 'CityEngineMaterial_40'         8 
+			110  'mesh_CityEngineMaterial_97' 'CityEngineMaterial_61'         4 
+	'Jazz_City.mtl':
+		MATERIAL:
+			Total Materials: 110
+			    | Name                  | Texture_0                        | Texture_1                    
+			====+=======================+==================================+==============================
+			  1  'CityEngineMaterial_11' 'ceramicRoof_6.jpg'                'ceramicRoof_6.jpg'           
+			  2  'CityEngineMaterial_77' 'g_f002_t006_Residential_004.jpg'  ''                            
+			  3  'CityEngineMaterial_74' 'g_f002_t006_Residential_003.jpg'  ''                            
+			  4  'CityEngineMaterial_65' 'g_f001_t007_Residential_000.jpg'  ''                            
+			  5  'CityEngineMaterial_56' 'flatRoof_32.jpg'                  'flatRoof_32.jpg'             
+			  6  'CityEngineMaterial_3'  'asphalt_14x14m.jpg'               ''                            
+			  7  'CityEngineMaterial_82' 'g_f002_t006_Residential_005.jpg'  ''                            
+			  8  'CityEngineMaterial_18' 'g_f001_t006_Residential_008.jpg'  ''                            
+			  9  'CityEngineMaterial_29' 'ceramicRoof_1.jpg'                'ceramicRoof_1.jpg'           
+			 10  'CityEngineMaterial_49' 'flatRoof_10.jpg'                  'flatRoof_10.jpg'             
+			 11  'CityEngineMaterial_16' 'g_f001_t006_Residential_012.jpg'  ''                            
+			 12  'CityEngineMaterial_26' 'u_f001_t002_Residential_001.jpg'  ''                            
+			 13  'CityEngineMaterial_27' 'u_f001_t002_Residential_000.jpg'  ''                            
+			 14  'CityEngineMaterial_86' 'u_f001_t002_Residential_002.jpg'  ''                            
+			 15  'CityEngineMaterial_7'  'ceramicRoof_4.jpg'                'ceramicRoof_4.jpg'           
+			 16  'CityEngineMaterial_95' 'u_f001_t004_Residential_002.jpg'  ''                            
+			 17  'CityEngineMaterial_30' 'flatRoof_12.jpg'                  'flatRoof_12.jpg'             
+			 18  'CreateFan_10'          'PineCedar_Billboard.png'          'PineCedar_Billboard.png'     
+			 19  'CreateFan_2'           'Ash_Billboard.png'                'Ash_Billboard.png'           
+			 20  'CityEngineMaterial_46' 'g_f001_t002_Residential_003.jpg'  ''                            
+			 21  'CityEngineMaterial_34' 'flatRoof_32.jpg'                  'flatRoof_32.jpg'             
+			 22  'CityEngineMaterial_41' 'g_f002_t006_Residential_002.jpg'  ''                            
+			 23  'CityEngineMaterial_32' 'g_f002_t006_Residential_007.jpg'  ''                            
+			 24  'CityEngineMaterial_4'  'green_06.jpg'                     ''                            
+			 25  'CityEngineMaterial_53' 'flatRoof_18.jpg'                  'flatRoof_18.jpg'             
+			 26  'CityEngineMaterial_1'  'curbs_2m.jpg'                     ''                            
+			 27  'CityEngineMaterial_13' 'ceramicRoof_3.jpg'                'ceramicRoof_3.jpg'           
+			 28  'CityEngineMaterial_63' 'u_f001_t002_Residential_015.jpg'  ''                            
+			 29  'CityEngineMaterial_57' 'flatRoof_37.jpg'                  'flatRoof_37.jpg'             
+			 30  'CityEngineMaterial_44' 'green_11.jpg'                     ''                            
+			 31  'CreateFan_5'           'Hickory_Billboard.png'            'Hickory_Billboard.png'       
+			 32  'CityEngineMaterial_43' 'green_06.jpg'                     ''                            
+			 33  'CityEngineMaterial_97' 'green_11.jpg'                     ''                            
+			 34  'CityEngineMaterial_78' 'green_09.jpg'                     ''                            
+			 35  'CityEngineMaterial_96' 'green_08.jpg'                     ''                            
+			 36  'CityEngineMaterial_92' 'green_02.jpg'                     ''                            
+			 37  'CityEngineMaterial_55' 'green_08.jpg'                     ''                            
+			 38  'CityEngineMaterial_20' 'green_09.jpg'                     ''                            
+			 39  'CityEngineMaterial_23' 'green_08.jpg'                     ''                            
+			 40  'CityEngineMaterial_93' 'flatRoof_22.jpg'                  'flatRoof_22.jpg'             
+			 41  'CityEngineMaterial_45' 'ceramicRoof_5.jpg'                'ceramicRoof_5.jpg'           
+			 42  'CityEngineMaterial_42' 'green_02.jpg'                     ''                            
+			 43  'CityEngineMaterial_22' 'green_02.jpg'                     ''                            
+			 44  'CityEngineMaterial_21' 'green_11.jpg'                     ''                            
+			 45  'CityEngineMaterial_79' 'green_08.jpg'                     ''                            
+			 46  'CityEngineMaterial_70' 'green_06.jpg'                     ''                            
+			 47  'CityEngineMaterial_5'  'green_11.jpg'                     ''                            
+			 48  'CityEngineMaterial_12' 'flatRoof_20.jpg'                  'flatRoof_20.jpg'             
+			 49  'CityEngineMaterial_94' 'g_f001_t004_Residential_003.jpg'  ''                            
+			 50  'CreateFan_7'           'Juniper_Billboard.png'            'Juniper_Billboard.png'       
+			 51  'CreateFan'             'Linden_Billboard.png'             'Linden_Billboard.png'        
+			 52  'CityEngineMaterial_51' 'u_f001_t005_Residential_002.jpg'  ''                            
+			 53  'CityEngineMaterial_83' 'flatRoof_37.jpg'                  'flatRoof_37.jpg'             
+			 54  'CreateFan_9'           'Magnolia_Billboard.png'           'Magnolia_Billboard.png'      
+			 55  'CityEngineMaterial_71' 'flatRoof_19.jpg'                  'flatRoof_19.jpg'             
+			 56  'CityEngineMaterial_40' 'g_f001_t003_Residential_012.jpg'  ''                            
+			 57  'CityEngineMaterial_61' 'g_f001_t003_Residential_013.jpg'  ''                            
+			 58  'CityEngineMaterial_87' 'u_f001_t002_Residential_009.jpg'  ''                            
+			 59  'CityEngineMaterial_39' 'u_f001_t002_Residential_004.jpg'  ''                            
+			 60  'CityEngineMaterial_52' 'flatRoof_4.jpg'                   'flatRoof_4.jpg'              
+			 61  'CityEngineMaterial_72' 'u_f001_t005_Residential_001.jpg'  ''                            
+			 62  'CityEngineMaterial_17' 'u_f001_t005_Residential_000.jpg'  ''                            
+			 63  'CreateFan_1'           'OakRed_Billboard.png'             'OakRed_Billboard.png'        
+			 64  'CreateFan_8'           'Elm_Billboard.png'                'Elm_Billboard.png'           
+			 65  'CityEngineMaterial_31' 'g_f001_t005_Residential_001.jpg'  ''                            
+			 66  'CityEngineMaterial_91' 'green_12.jpg'                     ''                            
+			 67  'CreateFan_3'           'Sycamore_Billboard.png'           'Sycamore_Billboard.png'      
+			 68  'CityEngineMaterial_6'  'green_09.jpg'                     ''                            
+			 69  'CreateFan_11'          'PineAustralian_Billboard.png'     'PineAustralian_Billboard.png'
+			 70  'CityEngineMaterial_85' 'flatRoof_35.jpg'                  'flatRoof_35.jpg'             
+			 71  'CityEngineMaterial_15' 'g_f001_t004_Residential_001.jpg'  ''                            
+			 72  'CityEngineMaterial_25' 'flatRoof_40.jpg'                  'flatRoof_40.jpg'             
+			 73  'CityEngineMaterial_35' 'ceramicRoof_7.jpg'                'ceramicRoof_7.jpg'           
+			 74  'CityEngineMaterial_24' 'flatRoof_29.jpg'                  'flatRoof_29.jpg'             
+			 75  'CreateFan_4'           'Chestnut_Billboard.png'           'Chestnut_Billboard.png'      
+			 76  'CityEngineMaterial_19' 'g_f001_t003_Residential_009.jpg'  ''                            
+			 77  'CityEngineMaterial_8'  'flatRoof_18.jpg'                  'flatRoof_18.jpg'             
+			 78  'CityEngineMaterial_54' 'g_f001_t003_Residential_005.jpg'  ''                            
+			 79  'CityEngineMaterial_89' 'g_f001_t003_Residential_010.jpg'  ''                            
+			 80  'CityEngineMaterial_64' 'flatRoof_36.jpg'                  'flatRoof_36.jpg'             
+			 81  'CityEngineMaterial_36' 'g_f001_t003_Residential_004.jpg'  ''                            
+			 82  'CityEngineMaterial_88' 'g_f001_t003_Residential_008.jpg'  ''                            
+			 83  'CityEngineMaterial_37' 'g_f001_t003_Residential_001.jpg'  ''                            
+			 84  'CityEngineMaterial_9'  'u_f001_t002_Residential_006.jpg'  ''                            
+			 85  'CityEngineMaterial_48' 'flatRoof_17.jpg'                  'flatRoof_17.jpg'             
+			 86  'CityEngineMaterial_59' 'flatRoof_40.jpg'                  'flatRoof_40.jpg'             
+			 87  'CityEngineMaterial_73' 'flatRoof_28.jpg'                  'flatRoof_28.jpg'             
+			 88  'CityEngineMaterial_80' 'g_f001_t021_Residential_000.jpg'  ''                            
+			 89  'CityEngineMaterial'    'lanes_4_stripes_white_14x14m.jpg' ''                            
+			 90  'CityEngineMaterial_84' 'flatRoof_8.jpg'                   'flatRoof_8.jpg'              
+			 91  'CityEngineMaterial_2'  'pavement_01_2x2m.jpg'             ''                            
+			 92  'CityEngineMaterial_62' 'u_f001_t003_Residential_003.jpg'  ''                            
+			 93  'CityEngineMaterial_58' 'u_f001_t003_Residential_006.jpg'  ''                            
+			 94  'CityEngineMaterial_50' 'u_f001_t003_Residential_008.jpg'  ''                            
+			 95  'CreateFan_6'           'MapleSummer_Billboard.png'        'MapleSummer_Billboard.png'   
+			 96  'CityEngineMaterial_14' 'flatRoof_21.jpg'                  'flatRoof_21.jpg'             
+			 97  'CityEngineMaterial_90' 'g_f001_t006_Residential_000.jpg'  ''                            
+			 98  'CityEngineMaterial_75' 'g_f001_t006_Residential_001.jpg'  ''                            
+			 99  'CityEngineMaterial_81' 'g_f001_t006_Residential_018.jpg'  ''                            
+			100  'CityEngineMaterial_47' 'g_f001_t006_Residential_029.jpg'  ''                            
+			101  'CityEngineMaterial_66' 'g_f001_t006_Residential_025.jpg'  ''                            
+			102  'CityEngineMaterial_60' 'g_f001_t006_Residential_023.jpg'  ''                            
+			103  'CityEngineMaterial_69' 'g_f001_t006_Residential_027.jpg'  ''                            
+			104  'CityEngineMaterial_10' 'ceramicRoof_2.jpg'                'ceramicRoof_2.jpg'           
+			105  'CityEngineMaterial_76' 'u_f001_t002_Residential_010.jpg'  ''                            
+			106  'CityEngineMaterial_68' 'u_f001_t002_Residential_008.jpg'  ''                            
+			107  'CityEngineMaterial_38' 'u_f001_t003_Residential_009.jpg'  ''                            
+			108  'CityEngineMaterial_33' 'u_f001_t003_Residential_005.jpg'  ''                            
+			109  'CityEngineMaterial_67' 'u_f001_t002_Residential_014.jpg'  ''                            
+			110  'CityEngineMaterial_28' 'flatRoof_35.jpg'                  'flatRoof_35.jpg'             

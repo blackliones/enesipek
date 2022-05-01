@@ -1,0 +1,1189 @@
+fileFormatVersion: 2
+guid: 9a888ef779da76c48a1e613d7fee9629
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: CityEngineMaterial
+    100002: CityEngineMaterial_1
+    100004: CityEngineMaterial_10
+    100006: CityEngineMaterial_11
+    100008: CityEngineMaterial_12
+    100010: CityEngineMaterial_13
+    100012: CityEngineMaterial_14
+    100014: CityEngineMaterial_15
+    100016: CityEngineMaterial_16
+    100018: CityEngineMaterial_17
+    100020: CityEngineMaterial_18
+    100022: CityEngineMaterial_19
+    100024: CityEngineMaterial_2
+    100026: CityEngineMaterial_20
+    100028: CityEngineMaterial_21
+    100030: CityEngineMaterial_22
+    100032: CityEngineMaterial_23
+    100034: CityEngineMaterial_24
+    100036: CityEngineMaterial_25
+    100038: CityEngineMaterial_26
+    100040: CityEngineMaterial_27
+    100042: CityEngineMaterial_28
+    100044: CityEngineMaterial_29
+    100046: CityEngineMaterial_3
+    100048: CityEngineMaterial_30
+    100050: CityEngineMaterial_31
+    100052: CityEngineMaterial_32
+    100054: CityEngineMaterial_33
+    100056: CityEngineMaterial_34
+    100058: CityEngineMaterial_35
+    100060: CityEngineMaterial_36
+    100062: CityEngineMaterial_37
+    100064: CityEngineMaterial_38
+    100066: CityEngineMaterial_39
+    100068: CityEngineMaterial_4
+    100070: CityEngineMaterial_40
+    100072: CityEngineMaterial_41
+    100074: CityEngineMaterial_42
+    100076: CityEngineMaterial_43
+    100078: CityEngineMaterial_44
+    100080: CityEngineMaterial_45
+    100082: CityEngineMaterial_46
+    100084: CityEngineMaterial_47
+    100086: CityEngineMaterial_48
+    100088: CityEngineMaterial_49
+    100090: CityEngineMaterial_5
+    100092: CityEngineMaterial_50
+    100094: CityEngineMaterial_51
+    100096: CityEngineMaterial_52
+    100098: CityEngineMaterial_53
+    100100: CityEngineMaterial_54
+    100102: CityEngineMaterial_55
+    100104: CityEngineMaterial_56
+    100106: CityEngineMaterial_57
+    100108: CityEngineMaterial_58
+    100110: CityEngineMaterial_59
+    100112: CityEngineMaterial_6
+    100114: CityEngineMaterial_60
+    100116: CityEngineMaterial_61
+    100118: CityEngineMaterial_62
+    100120: CityEngineMaterial_63
+    100122: CityEngineMaterial_64
+    100124: CityEngineMaterial_65
+    100126: CityEngineMaterial_66
+    100128: CityEngineMaterial_67
+    100130: CityEngineMaterial_68
+    100132: CityEngineMaterial_69
+    100134: CityEngineMaterial_7
+    100136: CityEngineMaterial_70
+    100138: CityEngineMaterial_71
+    100140: CityEngineMaterial_72
+    100142: CityEngineMaterial_73
+    100144: CityEngineMaterial_74
+    100146: CityEngineMaterial_75
+    100148: CityEngineMaterial_76
+    100150: CityEngineMaterial_77
+    100152: CityEngineMaterial_78
+    100154: CityEngineMaterial_79
+    100156: CityEngineMaterial_8
+    100158: CityEngineMaterial_80
+    100160: CityEngineMaterial_81
+    100162: CityEngineMaterial_82
+    100164: CityEngineMaterial_83
+    100166: CityEngineMaterial_84
+    100168: CityEngineMaterial_85
+    100170: CityEngineMaterial_86
+    100172: CityEngineMaterial_87
+    100174: CityEngineMaterial_88
+    100176: CityEngineMaterial_89
+    100178: CityEngineMaterial_9
+    100180: CityEngineMaterial_90
+    100182: CityEngineMaterial_91
+    100184: CityEngineMaterial_92
+    100186: CityEngineMaterial_93
+    100188: CityEngineMaterial_94
+    100190: CityEngineMaterial_95
+    100192: CityEngineMaterial_96
+    100194: CityEngineMaterial_97
+    100196: CreateFan
+    100198: CreateFan_1
+    100200: CreateFan_10
+    100202: CreateFan_11
+    100204: CreateFan_2
+    100206: CreateFan_3
+    100208: CreateFan_4
+    100210: CreateFan_5
+    100212: CreateFan_6
+    100214: CreateFan_7
+    100216: CreateFan_8
+    100218: CreateFan_9
+    100220: //RootNode
+    400000: CityEngineMaterial
+    400002: CityEngineMaterial_1
+    400004: CityEngineMaterial_10
+    400006: CityEngineMaterial_11
+    400008: CityEngineMaterial_12
+    400010: CityEngineMaterial_13
+    400012: CityEngineMaterial_14
+    400014: CityEngineMaterial_15
+    400016: CityEngineMaterial_16
+    400018: CityEngineMaterial_17
+    400020: CityEngineMaterial_18
+    400022: CityEngineMaterial_19
+    400024: CityEngineMaterial_2
+    400026: CityEngineMaterial_20
+    400028: CityEngineMaterial_21
+    400030: CityEngineMaterial_22
+    400032: CityEngineMaterial_23
+    400034: CityEngineMaterial_24
+    400036: CityEngineMaterial_25
+    400038: CityEngineMaterial_26
+    400040: CityEngineMaterial_27
+    400042: CityEngineMaterial_28
+    400044: CityEngineMaterial_29
+    400046: CityEngineMaterial_3
+    400048: CityEngineMaterial_30
+    400050: CityEngineMaterial_31
+    400052: CityEngineMaterial_32
+    400054: CityEngineMaterial_33
+    400056: CityEngineMaterial_34
+    400058: CityEngineMaterial_35
+    400060: CityEngineMaterial_36
+    400062: CityEngineMaterial_37
+    400064: CityEngineMaterial_38
+    400066: CityEngineMaterial_39
+    400068: CityEngineMaterial_4
+    400070: CityEngineMaterial_40
+    400072: CityEngineMaterial_41
+    400074: CityEngineMaterial_42
+    400076: CityEngineMaterial_43
+    400078: CityEngineMaterial_44
+    400080: CityEngineMaterial_45
+    400082: CityEngineMaterial_46
+    400084: CityEngineMaterial_47
+    400086: CityEngineMaterial_48
+    400088: CityEngineMaterial_49
+    400090: CityEngineMaterial_5
+    400092: CityEngineMaterial_50
+    400094: CityEngineMaterial_51
+    400096: CityEngineMaterial_52
+    400098: CityEngineMaterial_53
+    400100: CityEngineMaterial_54
+    400102: CityEngineMaterial_55
+    400104: CityEngineMaterial_56
+    400106: CityEngineMaterial_57
+    400108: CityEngineMaterial_58
+    400110: CityEngineMaterial_59
+    400112: CityEngineMaterial_6
+    400114: CityEngineMaterial_60
+    400116: CityEngineMaterial_61
+    400118: CityEngineMaterial_62
+    400120: CityEngineMaterial_63
+    400122: CityEngineMaterial_64
+    400124: CityEngineMaterial_65
+    400126: CityEngineMaterial_66
+    400128: CityEngineMaterial_67
+    400130: CityEngineMaterial_68
+    400132: CityEngineMaterial_69
+    400134: CityEngineMaterial_7
+    400136: CityEngineMaterial_70
+    400138: CityEngineMaterial_71
+    400140: CityEngineMaterial_72
+    400142: CityEngineMaterial_73
+    400144: CityEngineMaterial_74
+    400146: CityEngineMaterial_75
+    400148: CityEngineMaterial_76
+    400150: CityEngineMaterial_77
+    400152: CityEngineMaterial_78
+    400154: CityEngineMaterial_79
+    400156: CityEngineMaterial_8
+    400158: CityEngineMaterial_80
+    400160: CityEngineMaterial_81
+    400162: CityEngineMaterial_82
+    400164: CityEngineMaterial_83
+    400166: CityEngineMaterial_84
+    400168: CityEngineMaterial_85
+    400170: CityEngineMaterial_86
+    400172: CityEngineMaterial_87
+    400174: CityEngineMaterial_88
+    400176: CityEngineMaterial_89
+    400178: CityEngineMaterial_9
+    400180: CityEngineMaterial_90
+    400182: CityEngineMaterial_91
+    400184: CityEngineMaterial_92
+    400186: CityEngineMaterial_93
+    400188: CityEngineMaterial_94
+    400190: CityEngineMaterial_95
+    400192: CityEngineMaterial_96
+    400194: CityEngineMaterial_97
+    400196: CreateFan
+    400198: CreateFan_1
+    400200: CreateFan_10
+    400202: CreateFan_11
+    400204: CreateFan_2
+    400206: CreateFan_3
+    400208: CreateFan_4
+    400210: CreateFan_5
+    400212: CreateFan_6
+    400214: CreateFan_7
+    400216: CreateFan_8
+    400218: CreateFan_9
+    400220: //RootNode
+    2300000: CityEngineMaterial
+    2300002: CityEngineMaterial_1
+    2300004: CityEngineMaterial_10
+    2300006: CityEngineMaterial_11
+    2300008: CityEngineMaterial_12
+    2300010: CityEngineMaterial_13
+    2300012: CityEngineMaterial_14
+    2300014: CityEngineMaterial_15
+    2300016: CityEngineMaterial_16
+    2300018: CityEngineMaterial_17
+    2300020: CityEngineMaterial_18
+    2300022: CityEngineMaterial_19
+    2300024: CityEngineMaterial_2
+    2300026: CityEngineMaterial_20
+    2300028: CityEngineMaterial_21
+    2300030: CityEngineMaterial_22
+    2300032: CityEngineMaterial_23
+    2300034: CityEngineMaterial_24
+    2300036: CityEngineMaterial_25
+    2300038: CityEngineMaterial_26
+    2300040: CityEngineMaterial_27
+    2300042: CityEngineMaterial_28
+    2300044: CityEngineMaterial_29
+    2300046: CityEngineMaterial_3
+    2300048: CityEngineMaterial_30
+    2300050: CityEngineMaterial_31
+    2300052: CityEngineMaterial_32
+    2300054: CityEngineMaterial_33
+    2300056: CityEngineMaterial_34
+    2300058: CityEngineMaterial_35
+    2300060: CityEngineMaterial_36
+    2300062: CityEngineMaterial_37
+    2300064: CityEngineMaterial_38
+    2300066: CityEngineMaterial_39
+    2300068: CityEngineMaterial_4
+    2300070: CityEngineMaterial_40
+    2300072: CityEngineMaterial_41
+    2300074: CityEngineMaterial_42
+    2300076: CityEngineMaterial_43
+    2300078: CityEngineMaterial_44
+    2300080: CityEngineMaterial_45
+    2300082: CityEngineMaterial_46
+    2300084: CityEngineMaterial_47
+    2300086: CityEngineMaterial_48
+    2300088: CityEngineMaterial_49
+    2300090: CityEngineMaterial_5
+    2300092: CityEngineMaterial_50
+    2300094: CityEngineMaterial_51
+    2300096: CityEngineMaterial_52
+    2300098: CityEngineMaterial_53
+    2300100: CityEngineMaterial_54
+    2300102: CityEngineMaterial_55
+    2300104: CityEngineMaterial_56
+    2300106: CityEngineMaterial_57
+    2300108: CityEngineMaterial_58
+    2300110: CityEngineMaterial_59
+    2300112: CityEngineMaterial_6
+    2300114: CityEngineMaterial_60
+    2300116: CityEngineMaterial_61
+    2300118: CityEngineMaterial_62
+    2300120: CityEngineMaterial_63
+    2300122: CityEngineMaterial_64
+    2300124: CityEngineMaterial_65
+    2300126: CityEngineMaterial_66
+    2300128: CityEngineMaterial_67
+    2300130: CityEngineMaterial_68
+    2300132: CityEngineMaterial_69
+    2300134: CityEngineMaterial_7
+    2300136: CityEngineMaterial_70
+    2300138: CityEngineMaterial_71
+    2300140: CityEngineMaterial_72
+    2300142: CityEngineMaterial_73
+    2300144: CityEngineMaterial_74
+    2300146: CityEngineMaterial_75
+    2300148: CityEngineMaterial_76
+    2300150: CityEngineMaterial_77
+    2300152: CityEngineMaterial_78
+    2300154: CityEngineMaterial_79
+    2300156: CityEngineMaterial_8
+    2300158: CityEngineMaterial_80
+    2300160: CityEngineMaterial_81
+    2300162: CityEngineMaterial_82
+    2300164: CityEngineMaterial_83
+    2300166: CityEngineMaterial_84
+    2300168: CityEngineMaterial_85
+    2300170: CityEngineMaterial_86
+    2300172: CityEngineMaterial_87
+    2300174: CityEngineMaterial_88
+    2300176: CityEngineMaterial_89
+    2300178: CityEngineMaterial_9
+    2300180: CityEngineMaterial_90
+    2300182: CityEngineMaterial_91
+    2300184: CityEngineMaterial_92
+    2300186: CityEngineMaterial_93
+    2300188: CityEngineMaterial_94
+    2300190: CityEngineMaterial_95
+    2300192: CityEngineMaterial_96
+    2300194: CityEngineMaterial_97
+    2300196: CreateFan
+    2300198: CreateFan_1
+    2300200: CreateFan_10
+    2300202: CreateFan_11
+    2300204: CreateFan_2
+    2300206: CreateFan_3
+    2300208: CreateFan_4
+    2300210: CreateFan_5
+    2300212: CreateFan_6
+    2300214: CreateFan_7
+    2300216: CreateFan_8
+    2300218: CreateFan_9
+    3300000: CityEngineMaterial
+    3300002: CityEngineMaterial_1
+    3300004: CityEngineMaterial_10
+    3300006: CityEngineMaterial_11
+    3300008: CityEngineMaterial_12
+    3300010: CityEngineMaterial_13
+    3300012: CityEngineMaterial_14
+    3300014: CityEngineMaterial_15
+    3300016: CityEngineMaterial_16
+    3300018: CityEngineMaterial_17
+    3300020: CityEngineMaterial_18
+    3300022: CityEngineMaterial_19
+    3300024: CityEngineMaterial_2
+    3300026: CityEngineMaterial_20
+    3300028: CityEngineMaterial_21
+    3300030: CityEngineMaterial_22
+    3300032: CityEngineMaterial_23
+    3300034: CityEngineMaterial_24
+    3300036: CityEngineMaterial_25
+    3300038: CityEngineMaterial_26
+    3300040: CityEngineMaterial_27
+    3300042: CityEngineMaterial_28
+    3300044: CityEngineMaterial_29
+    3300046: CityEngineMaterial_3
+    3300048: CityEngineMaterial_30
+    3300050: CityEngineMaterial_31
+    3300052: CityEngineMaterial_32
+    3300054: CityEngineMaterial_33
+    3300056: CityEngineMaterial_34
+    3300058: CityEngineMaterial_35
+    3300060: CityEngineMaterial_36
+    3300062: CityEngineMaterial_37
+    3300064: CityEngineMaterial_38
+    3300066: CityEngineMaterial_39
+    3300068: CityEngineMaterial_4
+    3300070: CityEngineMaterial_40
+    3300072: CityEngineMaterial_41
+    3300074: CityEngineMaterial_42
+    3300076: CityEngineMaterial_43
+    3300078: CityEngineMaterial_44
+    3300080: CityEngineMaterial_45
+    3300082: CityEngineMaterial_46
+    3300084: CityEngineMaterial_47
+    3300086: CityEngineMaterial_48
+    3300088: CityEngineMaterial_49
+    3300090: CityEngineMaterial_5
+    3300092: CityEngineMaterial_50
+    3300094: CityEngineMaterial_51
+    3300096: CityEngineMaterial_52
+    3300098: CityEngineMaterial_53
+    3300100: CityEngineMaterial_54
+    3300102: CityEngineMaterial_55
+    3300104: CityEngineMaterial_56
+    3300106: CityEngineMaterial_57
+    3300108: CityEngineMaterial_58
+    3300110: CityEngineMaterial_59
+    3300112: CityEngineMaterial_6
+    3300114: CityEngineMaterial_60
+    3300116: CityEngineMaterial_61
+    3300118: CityEngineMaterial_62
+    3300120: CityEngineMaterial_63
+    3300122: CityEngineMaterial_64
+    3300124: CityEngineMaterial_65
+    3300126: CityEngineMaterial_66
+    3300128: CityEngineMaterial_67
+    3300130: CityEngineMaterial_68
+    3300132: CityEngineMaterial_69
+    3300134: CityEngineMaterial_7
+    3300136: CityEngineMaterial_70
+    3300138: CityEngineMaterial_71
+    3300140: CityEngineMaterial_72
+    3300142: CityEngineMaterial_73
+    3300144: CityEngineMaterial_74
+    3300146: CityEngineMaterial_75
+    3300148: CityEngineMaterial_76
+    3300150: CityEngineMaterial_77
+    3300152: CityEngineMaterial_78
+    3300154: CityEngineMaterial_79
+    3300156: CityEngineMaterial_8
+    3300158: CityEngineMaterial_80
+    3300160: CityEngineMaterial_81
+    3300162: CityEngineMaterial_82
+    3300164: CityEngineMaterial_83
+    3300166: CityEngineMaterial_84
+    3300168: CityEngineMaterial_85
+    3300170: CityEngineMaterial_86
+    3300172: CityEngineMaterial_87
+    3300174: CityEngineMaterial_88
+    3300176: CityEngineMaterial_89
+    3300178: CityEngineMaterial_9
+    3300180: CityEngineMaterial_90
+    3300182: CityEngineMaterial_91
+    3300184: CityEngineMaterial_92
+    3300186: CityEngineMaterial_93
+    3300188: CityEngineMaterial_94
+    3300190: CityEngineMaterial_95
+    3300192: CityEngineMaterial_96
+    3300194: CityEngineMaterial_97
+    3300196: CreateFan
+    3300198: CreateFan_1
+    3300200: CreateFan_10
+    3300202: CreateFan_11
+    3300204: CreateFan_2
+    3300206: CreateFan_3
+    3300208: CreateFan_4
+    3300210: CreateFan_5
+    3300212: CreateFan_6
+    3300214: CreateFan_7
+    3300216: CreateFan_8
+    3300218: CreateFan_9
+    4300000: CityEngineMaterial
+    4300002: CityEngineMaterial_1
+    4300004: CityEngineMaterial_10
+    4300006: CityEngineMaterial_11
+    4300008: CityEngineMaterial_12
+    4300010: CityEngineMaterial_13
+    4300012: CityEngineMaterial_14
+    4300014: CityEngineMaterial_15
+    4300016: CityEngineMaterial_16
+    4300018: CityEngineMaterial_17
+    4300020: CityEngineMaterial_18
+    4300022: CityEngineMaterial_19
+    4300024: CityEngineMaterial_2
+    4300026: CityEngineMaterial_20
+    4300028: CityEngineMaterial_21
+    4300030: CityEngineMaterial_22
+    4300032: CityEngineMaterial_23
+    4300034: CityEngineMaterial_24
+    4300036: CityEngineMaterial_25
+    4300038: CityEngineMaterial_26
+    4300040: CityEngineMaterial_27
+    4300042: CityEngineMaterial_28
+    4300044: CityEngineMaterial_29
+    4300046: CityEngineMaterial_3
+    4300048: CityEngineMaterial_30
+    4300050: CityEngineMaterial_31
+    4300052: CityEngineMaterial_32
+    4300054: CityEngineMaterial_33
+    4300056: CityEngineMaterial_34
+    4300058: CityEngineMaterial_35
+    4300060: CityEngineMaterial_36
+    4300062: CityEngineMaterial_37
+    4300064: CityEngineMaterial_38
+    4300066: CityEngineMaterial_39
+    4300068: CityEngineMaterial_4
+    4300070: CityEngineMaterial_40
+    4300072: CityEngineMaterial_41
+    4300074: CityEngineMaterial_42
+    4300076: CityEngineMaterial_43
+    4300078: CityEngineMaterial_44
+    4300080: CityEngineMaterial_45
+    4300082: CityEngineMaterial_46
+    4300084: CityEngineMaterial_47
+    4300086: CityEngineMaterial_48
+    4300088: CityEngineMaterial_49
+    4300090: CityEngineMaterial_5
+    4300092: CityEngineMaterial_50
+    4300094: CityEngineMaterial_51
+    4300096: CityEngineMaterial_52
+    4300098: CityEngineMaterial_53
+    4300100: CityEngineMaterial_54
+    4300102: CityEngineMaterial_55
+    4300104: CityEngineMaterial_56
+    4300106: CityEngineMaterial_57
+    4300108: CityEngineMaterial_58
+    4300110: CityEngineMaterial_59
+    4300112: CityEngineMaterial_6
+    4300114: CityEngineMaterial_60
+    4300116: CityEngineMaterial_61
+    4300118: CityEngineMaterial_62
+    4300120: CityEngineMaterial_63
+    4300122: CityEngineMaterial_64
+    4300124: CityEngineMaterial_65
+    4300126: CityEngineMaterial_66
+    4300128: CityEngineMaterial_67
+    4300130: CityEngineMaterial_68
+    4300132: CityEngineMaterial_69
+    4300134: CityEngineMaterial_7
+    4300136: CityEngineMaterial_70
+    4300138: CityEngineMaterial_71
+    4300140: CityEngineMaterial_72
+    4300142: CityEngineMaterial_73
+    4300144: CityEngineMaterial_74
+    4300146: CityEngineMaterial_75
+    4300148: CityEngineMaterial_76
+    4300150: CityEngineMaterial_77
+    4300152: CityEngineMaterial_78
+    4300154: CityEngineMaterial_79
+    4300156: CityEngineMaterial_8
+    4300158: CityEngineMaterial_80
+    4300160: CityEngineMaterial_81
+    4300162: CityEngineMaterial_82
+    4300164: CityEngineMaterial_83
+    4300166: CityEngineMaterial_84
+    4300168: CityEngineMaterial_85
+    4300170: CityEngineMaterial_86
+    4300172: CityEngineMaterial_87
+    4300174: CityEngineMaterial_88
+    4300176: CityEngineMaterial_89
+    4300178: CityEngineMaterial_9
+    4300180: CityEngineMaterial_90
+    4300182: CityEngineMaterial_91
+    4300184: CityEngineMaterial_92
+    4300186: CityEngineMaterial_93
+    4300188: CityEngineMaterial_94
+    4300190: CityEngineMaterial_95
+    4300192: CityEngineMaterial_96
+    4300194: CityEngineMaterial_97
+    4300196: CreateFan
+    4300198: CreateFan_1
+    4300200: CreateFan_10
+    4300202: CreateFan_11
+    4300204: CreateFan_2
+    4300206: CreateFan_3
+    4300208: CreateFan_4
+    4300210: CreateFan_5
+    4300212: CreateFan_6
+    4300214: CreateFan_7
+    4300216: CreateFan_8
+    4300218: CreateFan_9
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial
+    second: {fileID: 2100000, guid: 4387f330007c20f47a347488ca0ed921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_1
+    second: {fileID: 2100000, guid: 6eaca556247530a4ea0b73a5eb99bc6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_10
+    second: {fileID: 2100000, guid: 8ab206c1a719c4a49b2a7676bb187af7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_11
+    second: {fileID: 2100000, guid: be42e082baf1e6443b1b9b57325ca9ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_12
+    second: {fileID: 2100000, guid: 8b689966229101a44a969f754ae18a99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_13
+    second: {fileID: 2100000, guid: 3d59adbc1cb0eef4f98c71a641bda51d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_14
+    second: {fileID: 2100000, guid: 8c88d955118b2c649b3180aeb91d5a0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_15
+    second: {fileID: 2100000, guid: ea3b53a92593e204dad63b519544ae0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_16
+    second: {fileID: 2100000, guid: ed71bdaec6f477a468e4255892dfd282, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_17
+    second: {fileID: 2100000, guid: f8caef782d54db147ac0a40c001b65fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_18
+    second: {fileID: 2100000, guid: d22b09f490b6c20488f4c1ca30a2c2e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_19
+    second: {fileID: 2100000, guid: 8edf22d957cd87a4ebfe37ad1319304e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_2
+    second: {fileID: 2100000, guid: ad97bbbd79862c0438a7f9b68ff375ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_20
+    second: {fileID: 2100000, guid: c9e30434e8b10c540974b745c548865c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_21
+    second: {fileID: 2100000, guid: fa24da0599fe02141b05242c616a5450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_22
+    second: {fileID: 2100000, guid: fb37227cafd133c4889d2bbd12bf6d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_23
+    second: {fileID: 2100000, guid: e971f7530e5d9ec42b72c60c78b8cd56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_24
+    second: {fileID: 2100000, guid: ce943ebad27f13042be63d26e095fd10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_25
+    second: {fileID: 2100000, guid: 2dce6831a42f1b649a4b98e4be9ef128, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_26
+    second: {fileID: 2100000, guid: 9c0212a8f8036d6438f7690dfec7e44d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_27
+    second: {fileID: 2100000, guid: be8fe0b8dd1aece4b8c29c069ee06226, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_28
+    second: {fileID: 2100000, guid: 8e02e9309b7e87c499d51c199b01ba67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_29
+    second: {fileID: 2100000, guid: 6beabcdd90a3f964396f6e6b24cc3e1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_3
+    second: {fileID: 2100000, guid: 13ace5fed5d083f47ab9cb5034fd99eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_30
+    second: {fileID: 2100000, guid: 45bd879d6bf2c30449cfe91e4a23b68a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_31
+    second: {fileID: 2100000, guid: 85fd4bdaf7ce1b34c90c99e98c98f605, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_32
+    second: {fileID: 2100000, guid: 4d66884fbdd58b84a949cc2a5335a4c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_33
+    second: {fileID: 2100000, guid: 4986b5cbafbb68d46847968a8a07f4cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_34
+    second: {fileID: 2100000, guid: 13c0f11d13522a54d932f105d6e3703b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_35
+    second: {fileID: 2100000, guid: e508b4539b85b3e449acefee7f0b5471, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_36
+    second: {fileID: 2100000, guid: ecc17559c9050264d8d211d0fdee1a62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_37
+    second: {fileID: 2100000, guid: 71becee61bedc37468655d14deb2d115, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_38
+    second: {fileID: 2100000, guid: 89704b7e500edd04394b1c944ba009d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_39
+    second: {fileID: 2100000, guid: 4d112e3b22dc7a64c8f5e4220b0b930c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_4
+    second: {fileID: 2100000, guid: 2575654a11d31954aa9bcd6335d573d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_40
+    second: {fileID: 2100000, guid: b3d985279b6d2bc4a9efefde094db48f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_41
+    second: {fileID: 2100000, guid: 675b5bae00364e64995b59250971db48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_42
+    second: {fileID: 2100000, guid: 8ccf9f028a91e994080949c4bee26ea0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_43
+    second: {fileID: 2100000, guid: c380359753b964544ab7b719a5960227, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_44
+    second: {fileID: 2100000, guid: 6438a577987684f4b94b300d5c35b922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_45
+    second: {fileID: 2100000, guid: 07c1ca933281bc24f82f5729d7427221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_46
+    second: {fileID: 2100000, guid: bd338f7695e68cf47932112c0cbe26e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_47
+    second: {fileID: 2100000, guid: e51d12e3ef4e04d49af678cb37430de8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_48
+    second: {fileID: 2100000, guid: 972511a1b0002bb4a84eae99ea88f834, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_49
+    second: {fileID: 2100000, guid: 96e1ff15c670e8443b2a804f2b197706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_5
+    second: {fileID: 2100000, guid: 56d2977a13096384fad60ed700e354f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_50
+    second: {fileID: 2100000, guid: ce9ea80840e7a984286c0cc35141ba34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_51
+    second: {fileID: 2100000, guid: 40a2489191aab0a4589bc7ba8f7ad9b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_52
+    second: {fileID: 2100000, guid: 873f6eea7fd3eb349affc539f3dbe820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_53
+    second: {fileID: 2100000, guid: 236c2f6457dd36e4992bb485755c871a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_54
+    second: {fileID: 2100000, guid: c85b2c69a51acb44f9b0dcf70775f248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_55
+    second: {fileID: 2100000, guid: 8b50743f82f0884468581b9cea44434a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_56
+    second: {fileID: 2100000, guid: 6ae5e78c24b4cbf41bd7a810f37a743b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_57
+    second: {fileID: 2100000, guid: 8c7a40af62cbd014b908e64dab48e96b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_58
+    second: {fileID: 2100000, guid: 5056b3fd7434f244b82c8512843c14c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_59
+    second: {fileID: 2100000, guid: cc7cc9a5696432649aa7008ca57e8b3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_6
+    second: {fileID: 2100000, guid: 4883896018852644385bc9bb51286a48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_60
+    second: {fileID: 2100000, guid: 82dbb14dbd7295a4d8449e9ac20293f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_61
+    second: {fileID: 2100000, guid: 11d468aec9e4520479fc080a6ea74bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_62
+    second: {fileID: 2100000, guid: ce3b773f99cd0d142b2de1d97c0c2106, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_63
+    second: {fileID: 2100000, guid: 07705b2ce48d7be40bffc259157c1799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_64
+    second: {fileID: 2100000, guid: d9958eadc58083b4c96104d1d13c9abb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_65
+    second: {fileID: 2100000, guid: cc9c84a934c9c274b9eea7c1c1f24f6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_66
+    second: {fileID: 2100000, guid: 83d18131644e6eb49893d946438dc3ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_67
+    second: {fileID: 2100000, guid: e9c8027b2d6cb2649bf7819c2390401a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_68
+    second: {fileID: 2100000, guid: 96cb1b3853439fa438609a4ae3c6a8b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_69
+    second: {fileID: 2100000, guid: 269e8dc13a94606489ffde9d5fed4202, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_7
+    second: {fileID: 2100000, guid: d0475deddfe214d4e8a6528cfbef78e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_70
+    second: {fileID: 2100000, guid: 59854b0067e4d74418cf9358695f4bc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_71
+    second: {fileID: 2100000, guid: 37852cf39e713a54a8dfbb6cad93e077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_72
+    second: {fileID: 2100000, guid: d9aab55f54375c241961855be8753a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_73
+    second: {fileID: 2100000, guid: d80fb1b5b7c95e2499f2bc4e844a9732, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_74
+    second: {fileID: 2100000, guid: 0f6edad7ee439244a895d00614310702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_75
+    second: {fileID: 2100000, guid: 8273fd4516c0f2545ab0c297345bed3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_76
+    second: {fileID: 2100000, guid: 0247254fac057bd488718dbf69a017e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_77
+    second: {fileID: 2100000, guid: cfe06be08eb7e964994f07d1eae98b1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_78
+    second: {fileID: 2100000, guid: cbdd5139ef340424097f588a0974b2d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_79
+    second: {fileID: 2100000, guid: 01f19d2d8f5745f4986dcd27eeacfba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_8
+    second: {fileID: 2100000, guid: d3c583bc7ce6d074cb505b134589ce44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_80
+    second: {fileID: 2100000, guid: 2b2cf7f3e226deb47a8271bb66168963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_81
+    second: {fileID: 2100000, guid: d4114bded71936f4092a62ee4cda631c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_82
+    second: {fileID: 2100000, guid: a9b9eaf1afec84641bb21b21e0a26699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_83
+    second: {fileID: 2100000, guid: 6db9fc28011d75648a584dacaeb7db11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_84
+    second: {fileID: 2100000, guid: be686c8be42fa2a4da7512ca3fe21db7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_85
+    second: {fileID: 2100000, guid: 524bd2f1343af5940b48b1c1f2e4c086, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_86
+    second: {fileID: 2100000, guid: c109cdcfb416be14bba90d58d5fee4d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_87
+    second: {fileID: 2100000, guid: 08a740f0a2d7651469cb5285ce4938f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_88
+    second: {fileID: 2100000, guid: 197f595176b3078498e5b6c6a4f7c212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_89
+    second: {fileID: 2100000, guid: a82320ce09ab09b478c58fd17457ee54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_9
+    second: {fileID: 2100000, guid: 756cf688b4d3787479e507154f118509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_90
+    second: {fileID: 2100000, guid: 4744a801c4cf36b48b2328169e876bab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_91
+    second: {fileID: 2100000, guid: 216e1a4c625cbed4ab1cfbf225eefb3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_92
+    second: {fileID: 2100000, guid: 21d0cea30e9fb4245bb693522a086422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_93
+    second: {fileID: 2100000, guid: 905b9eb4f29b0804bb247919ac257b1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_94
+    second: {fileID: 2100000, guid: d18f8f934b1582a4e9ed3f088f6dfe36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_95
+    second: {fileID: 2100000, guid: 58ba802bf35c8594495203526b39487f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_96
+    second: {fileID: 2100000, guid: b46d5595bae827a49868c76933b48949, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CityEngineMaterial_97
+    second: {fileID: 2100000, guid: 3d50b5d89dd44de4e9d8b9d85379c4ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan
+    second: {fileID: 2100000, guid: 428c5e4150c9dd240b85ea2801b8d773, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan_1
+    second: {fileID: 2100000, guid: 46eb38ba260edc947abac1f0f38f65c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan_10
+    second: {fileID: 2100000, guid: f6dce6516e5d65d46b9fdf2cba6d1a1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan_11
+    second: {fileID: 2100000, guid: 2bde990249582a7489d82045117bf9fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan_2
+    second: {fileID: 2100000, guid: e3c490a761c3d324d8c1d8a5e73137b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan_3
+    second: {fileID: 2100000, guid: f068ab0a3eaf57e4ea4fcb6227faf845, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan_4
+    second: {fileID: 2100000, guid: 33ff9a272997a1c47b4d9356ca442c2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan_5
+    second: {fileID: 2100000, guid: 897c0db43663891488ab3aefccacd194, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan_6
+    second: {fileID: 2100000, guid: 7243e2b39b2a7c14daddc955c15fd4a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan_7
+    second: {fileID: 2100000, guid: 33b471f4d1b28c44d9b8b3e7c18551c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan_8
+    second: {fileID: 2100000, guid: 0820cdd8f1557d647bae8113e68ab408, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CreateFan_9
+    second: {fileID: 2100000, guid: 225fb221359675c4ca360657ed383697, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

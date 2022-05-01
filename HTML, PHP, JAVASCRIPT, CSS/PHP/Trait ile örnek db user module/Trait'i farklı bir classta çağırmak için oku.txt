@@ -1,0 +1,7 @@
+Örnek olarak config class ınız var ve farklı traitlerinizi o config classta kullanmak istiyorsunuz.
+Bunun için öncelikle ' include "tbl_users.php"; ' bu şekilde tam konumuyla birlikte traitin oldugu class ı config e dahil ediyoruz ve sonrasında bir config class ı içersinde
+use tbl_users; şeklinde çağırıyoruz.
+Bundan sonra tbl_users trait içersindeki public olan herşeye direkt olarak config.php üzerinden erişebilirsiniz.
+
+**** ÖNEMLİ ****
+Birden fazla trait use ile çağrıldığında traitler içersindeki fonksiyonların adlarının aynı olmadığına dikkat edin. 

@@ -1,0 +1,9 @@
+c:\users\bilal\documents\visual studio 2015\Projects\ardcsharp\ardcsharp\bin\Debug\ardcsharp.exe.config
+c:\users\bilal\documents\visual studio 2015\Projects\ardcsharp\ardcsharp\bin\Debug\ardcsharp.exe
+c:\users\bilal\documents\visual studio 2015\Projects\ardcsharp\ardcsharp\bin\Debug\ardcsharp.pdb
+c:\users\bilal\documents\visual studio 2015\Projects\ardcsharp\ardcsharp\obj\Debug\ardcsharp.csprojResolveAssemblyReference.cache
+c:\users\bilal\documents\visual studio 2015\Projects\ardcsharp\ardcsharp\obj\Debug\ardcsharp.Form1.resources
+c:\users\bilal\documents\visual studio 2015\Projects\ardcsharp\ardcsharp\obj\Debug\ardcsharp.Properties.Resources.resources
+c:\users\bilal\documents\visual studio 2015\Projects\ardcsharp\ardcsharp\obj\Debug\ardcsharp.csproj.GenerateResource.Cache
+c:\users\bilal\documents\visual studio 2015\Projects\ardcsharp\ardcsharp\obj\Debug\ardcsharp.exe
+c:\users\bilal\documents\visual studio 2015\Projects\ardcsharp\ardcsharp\obj\Debug\ardcsharp.pdb
